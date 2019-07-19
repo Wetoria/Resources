@@ -129,6 +129,8 @@ Collect resources
 
 - [ ] [JS 中的require 和 import 区别 - 山高我为峰 - 博客园](https://app.yinxiang.com/shard/s59/nl/11394703/bbe5196a-28d6-498e-b430-a27c03fbb01a/)
 
+- [x] [轻松理解JS函数节流和函数防抖 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/58a835a3-e0fe-4331-8690-df29efdd62b3/)
+
 
 ## 如何编写高质量的代码
 - [ ] [前端进阶（3） - 怎样提升代码质量 - 深予之 - SegmentFault 思否](https://app.yinxiang.com/shard/s59/nl/11394703/2734acad-d387-4ddd-8ed5-c8bed97d794e/)
