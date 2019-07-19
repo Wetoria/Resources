@@ -27,7 +27,6 @@ Collect resources
 ### nvm
 - [x] [使用 nvm 管理不同版本的 node 与 npm](https://app.yinxiang.com/shard/s59/nl/11394703/6f09f0c6-5ebc-4cda-b0ef-5297905022b9/)
 
----  
 
 ## Webpack
 - [ ] [深入浅出 Webpack](http://webpack.wuhaolin.cn/)
@@ -42,7 +41,6 @@ Collect resources
 
 - [ ] [【译】十五分钟，学习 Webpack - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/ddf4e203-5b50-4d2d-b52d-79417e19f8f7/)
 
---- 
 
 ## 项目管理
 - [ ] [前端重构方案了解一下 - IT程序猿](https://app.yinxiang.com/shard/s59/nl/11394703/fa1365f3-225a-4b4c-97b0-2d42131ae34f/)
@@ -64,7 +62,6 @@ Collect resources
 ### 代码优化
 - [ ] [我在工作中是如何优化代码的 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/77372813-35eb-4ab0-9dea-85f06052ffb7/)
 
----  
 
 ## Vue
 
@@ -99,7 +96,6 @@ Collect resources
 
 - [x] [解决 Vue 相同路由参数不同不会刷新的问题 - oZhangBi的博客 - CSDN博客](https://app.yinxiang.com/shard/s59/nl/11394703/16e4df5c-0ebc-4e09-b95b-2a00b3e382b1/)
 
----  
 
 ## React
 - [x] [用好React，你必须要知道的事情 - 老干部的大前端 - SegmentFault 思否](https://app.yinxiang.com/shard/s59/nl/11394703/8650dd03-4b44-4e98-8bc8-11fe039ef028/)  
@@ -111,17 +107,14 @@ Collect resources
 ### 坑
 - [ ] [中文輸入法與React文字輸入框的問題與解決方案](https://app.yinxiang.com/shard/s59/nl/11394703/99cc4295-5095-4da0-83bf-c0dfb2f91c24/)
 
----  
 
 ## 移动端
 - [x] [关于移动端适配，你必须要知道的 - code秘密花园 - SegmentFault 思否](https://app.yinxiang.com/shard/s59/nl/11394703/5ef0689a-02af-449a-9d55-2847cb4e4b30/)  
 
----  
 
 ## Electron
 - [x] [如何正确地下载electron](https://app.yinxiang.com/shard/s59/nl/11394703/5c1aff55-1a7c-487f-b220-1d98c58eb379/)
 
----  
 
 ## HTML & CSS & JavaScript
 
@@ -136,7 +129,6 @@ Collect resources
 
 - [ ] [JS 中的require 和 import 区别 - 山高我为峰 - 博客园](https://app.yinxiang.com/shard/s59/nl/11394703/bbe5196a-28d6-498e-b430-a27c03fbb01a/)
 
----  
 
 ## 如何编写高质量的代码
 - [ ] [前端进阶（3） - 怎样提升代码质量 - 深予之 - SegmentFault 思否](https://app.yinxiang.com/shard/s59/nl/11394703/2734acad-d387-4ddd-8ed5-c8bed97d794e/)
@@ -154,21 +146,18 @@ Collect resources
 ### CSS
 - [ ] [BEM命名规范入门及常用CSS class 命名 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/aa1eaca3-e541-4068-b3df-607b1e3525ba/)
 
----  
 
 ## 浏览器调试技巧
 - [x] [分享一些 Chrome 浏览器的前端调试技巧 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/b1124ea7-227a-4c95-9e69-be429ff7fafb/)  
 
 - [x] [灵活使用 console 让 js 调试更简单 - 终身学习者 - SegmentFault 思否](https://app.yinxiang.com/shard/s59/nl/11394703/b94dab57-78e5-4873-93b2-bbc835c583c2/)
 
----  
 
 ## 编辑器
 - [x] [在用VSCode? 看完这篇文章, 开发效率翻倍!最后一条厉害了~](https://app.yinxiang.com/shard/s59/nl/11394703/013a11ec-b7fa-4e8f-8741-ab3d22817c2f/)
 
 - [x] [vue Eslint 自动修复 in Vscode - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/f2507e23-4685-4d91-82e9-df96c322f8b6/)
 
----  
 
 ## Java
 ### DB
@@ -186,20 +175,17 @@ Collect resources
 
 - [ ] [微软 RESTful-API设计指导](https://app.yinxiang.com/shard/s59/nl/11394703/53121dc1-3abb-4d65-adfe-7495999e7601/)
 
---- 
 
 ## 设计模式
 ### 前端
 - [ ] [前端设计模式 - a running snail - SegmentFault 思否](https://app.yinxiang.com/shard/s59/nl/11394703/b3e9d63f-fabc-41d6-b84e-a0af8b04de4b/)
 
----
 
 ## 项目
 - [ ] [Web聊天工具的富文本输入框 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/e7e35fc2-8e52-4a1a-ac45-39e79e804ca8/)
 
 - [ ] [用Node+wechaty写一个爬虫脚本每天定时给女(男)朋友发微信暖心话 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/bbc33d08-28ca-4818-bf0c-e7d5b845afb7/)
 
----
 
 ## 浏览器
 - [ ] [在浏览器地址栏按回车、F5、Ctrl+F5刷新网页的区别](https://app.yinxiang.com/shard/s59/nl/11394703/9f8ae72d-aadb-43cd-a16b-acd03a1f7963/)
@@ -213,12 +199,10 @@ Collect resources
 ### 缓存
 - [ ] [你应该知道的浏览器缓存知识 - 韩小平的博客](https://app.yinxiang.com/shard/s59/nl/11394703/a6654feb-7587-435b-97e3-96096177ae9f/)
 
---- 
 
 ## 奇淫巧技
 - [ ] [十分钟学会 tmux - 猫哥_kaiye - 博客园](https://app.yinxiang.com/shard/s59/nl/11394703/1ea2186d-9d91-4865-b380-d8c67008e22c/)
 
---- 
 
 ## Read
 - [x] [如何写出没有BUG的代码](https://app.yinxiang.com/shard/s59/nl/11394703/fbc905b4-de2e-4487-8db0-92921eca7d6c/)
@@ -254,5 +238,3 @@ Collect resources
 - [ ] [离开华为三年，我才真正认同狼性文化](https://app.yinxiang.com/shard/s59/nl/11394703/6448c7b2-5c77-4346-a77f-43ed22150e85/)
 
 - [ ] [操作系统Unix、Windows、Mac OS、Linux的故事 科普篇 - zhanghow的博客 - CSDN博客](https://app.yinxiang.com/shard/s59/nl/11394703/382b6417-cf0f-4a12-9ab6-90c145615099/)
-
----  
