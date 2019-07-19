@@ -199,6 +199,8 @@ Collect resources
 ### 缓存
 - [ ] [你应该知道的浏览器缓存知识 - 韩小平的博客](https://app.yinxiang.com/shard/s59/nl/11394703/a6654feb-7587-435b-97e3-96096177ae9f/)
 
+- [ ] [彻底理解浏览器的缓存机制 - 前端 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/217bd84b-c3cc-45e3-9666-130fc353e6f5/)
+
 
 ## 奇淫巧技
 - [ ] [十分钟学会 tmux - 猫哥_kaiye - 博客园](https://app.yinxiang.com/shard/s59/nl/11394703/1ea2186d-9d91-4865-b380-d8c67008e22c/)
@@ -238,3 +240,7 @@ Collect resources
 - [ ] [离开华为三年，我才真正认同狼性文化](https://app.yinxiang.com/shard/s59/nl/11394703/6448c7b2-5c77-4346-a77f-43ed22150e85/)
 
 - [ ] [操作系统Unix、Windows、Mac OS、Linux的故事 科普篇 - zhanghow的博客 - CSDN博客](https://app.yinxiang.com/shard/s59/nl/11394703/382b6417-cf0f-4a12-9ab6-90c145615099/)
+
+- [ ] [别人都在做自己喜欢的工作，为什么你不可以！](https://app.yinxiang.com/shard/s59/nl/11394703/c28896bb-5861-4aed-ace3-ff3509838dc8/)
+
+- [ ] [这是我见过的把开发人员学习路线总结的最清晰的四张图了 ](https://app.yinxiang.com/shard/s59/nl/11394703/f616f78b-92f2-47c9-8fe3-de1942b8371f/)
