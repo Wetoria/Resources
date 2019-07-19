@@ -18,6 +18,15 @@ Collect resources
 
 - [ ] [如何正确的学习Node.js](https://app.yinxiang.com/shard/s59/nl/11394703/0849ecb1-06f6-4623-99c1-d0e41e7a33b9/)
 
+- [x] [Node环境变量 process.env 的那些事儿 - JS那些事儿 - SegmentFault 思否](https://app.yinxiang.com/shard/s59/nl/11394703/2c07cbc4-be78-4159-8d79-0332558f8083/)
+
+- [ ] [当我们学习 Node.js 时，我们在学习什么？ - 前端 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/4ecc0f20-6a4e-405b-9593-8099d54393b8/)
+
+- [x] [What's the difference between a tilde (~) and a caret (^) in a npm package.json file? / Michael Lee](https://app.yinxiang.com/shard/s59/nl/11394703/bbd6d2f3-b1b9-4d9a-adc4-0b6199ddd32c/)
+
+### nvm
+- [x] [使用 nvm 管理不同版本的 node 与 npm](https://app.yinxiang.com/shard/s59/nl/11394703/6f09f0c6-5ebc-4cda-b0ef-5297905022b9/)
+
 ---  
 
 ## Webpack
@@ -29,9 +38,17 @@ Collect resources
 
 - [x] [vue.js - webpack中的一个疑惑 - SegmentFault 思否](https://app.yinxiang.com/shard/s59/nl/11394703/6bc8b12c-e05f-49a9-b8b0-faaa9eaa5b53/)
 
+- [ ] [webpack-dev-server使用方法，看完还不会的来找我~ - JSer - SegmentFault 思否](https://app.yinxiang.com/shard/s59/nl/11394703/d15a62de-bd07-444f-a516-ffe9cef89d4b/)
+
+- [ ] [【译】十五分钟，学习 Webpack - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/ddf4e203-5b50-4d2d-b52d-79417e19f8f7/)
+
 --- 
 
 ## 项目管理
+- [ ] [前端重构方案了解一下 - IT程序猿](https://app.yinxiang.com/shard/s59/nl/11394703/fa1365f3-225a-4b4c-97b0-2d42131ae34f/)
+
+- [ ] [前端框架有哪些](https://app.yinxiang.com/shard/s59/nl/11394703/05c64ebd-cfc0-4676-8b9a-d5887a3b9a72/)
+
 ### 前端
 - [x] [从 0 到 1 再到 100, 搭建、编写、构建一个前端项目 - 深予之 - SegmentFault 思否](https://app.yinxiang.com/shard/s59/nl/11394703/1808896d-201d-4091-b29e-bc8ab0e0eb29/)
 
@@ -40,6 +57,12 @@ Collect resources
 - [ ] [前端项目如何管理 - 深予之 - SegmentFault 思否](https://app.yinxiang.com/shard/s59/nl/11394703/936794fc-123e-4bc9-a9a8-8b7432730bc8/)
 
 - [x] [前端开发与项目管理](https://app.yinxiang.com/shard/s59/nl/11394703/51c8727e-d868-4748-9880-05010c1990a4/)
+
+### 前端异常处理
+- [ ] [如何优雅处理前端异常？ | Fundebug博客](https://app.yinxiang.com/shard/s59/nl/11394703/e3c040fb-437b-4f60-9e63-a7ca6bab5626/)
+
+### 代码优化
+- [ ] [我在工作中是如何优化代码的 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/77372813-35eb-4ab0-9dea-85f06052ffb7/)
 
 ---  
 
@@ -66,6 +89,9 @@ Collect resources
 ### Element-UI
 - [x] [优雅的使用 element-ui 中的 table 组件 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/027c3a85-17c1-4277-a7ea-28cbb0b38ab0/)
 
+### Vuex
+- [x] [vuex在vue项目中的使用 - kirinlau的专栏 - CSDN博客](https://app.yinxiang.com/shard/s59/nl/11394703/cab63000-c774-400a-99d9-39a0e82df181/)
+
 ### 缓存
 - [x] [vue-router 之 keep-alive - 前端 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/99326a9e-f7e2-4d3d-ab1c-8de917923cc7/)  
 
@@ -77,6 +103,13 @@ Collect resources
 
 ## React
 - [x] [用好React，你必须要知道的事情 - 老干部的大前端 - SegmentFault 思否](https://app.yinxiang.com/shard/s59/nl/11394703/8650dd03-4b44-4e98-8bc8-11fe039ef028/)  
+
+- [ ] [Pass props to a component rendered by React Router](https://app.yinxiang.com/shard/s59/nl/11394703/06caebe3-6321-4b0f-94e3-2844a46437e4/)
+
+- [ ] [关于React v16.3 新生命周期 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/e23f3b96-53bc-4555-a787-5a982d93ef80/)
+
+### 坑
+- [ ] [中文輸入法與React文字輸入框的問題與解決方案](https://app.yinxiang.com/shard/s59/nl/11394703/99cc4295-5095-4da0-83bf-c0dfb2f91c24/)
 
 ---  
 
@@ -99,6 +132,10 @@ Collect resources
 
 - [x] [[译]带你理解 Async/await - 码力全开 - SegmentFault 思否](https://app.yinxiang.com/shard/s59/nl/11394703/30934663-a4df-4076-bc08-fad87182c01f/)
 
+- [x] [JavaScript：函数防抖与函数节流 - 前端开发随笔 - SegmentFault 思否](https://app.yinxiang.com/shard/s59/nl/11394703/ab936fbe-3147-4bac-9999-23a0908b668d/)
+
+- [ ] [JS 中的require 和 import 区别 - 山高我为峰 - 博客园](https://app.yinxiang.com/shard/s59/nl/11394703/bbe5196a-28d6-498e-b430-a27c03fbb01a/)
+
 ---  
 
 ## 如何编写高质量的代码
@@ -114,6 +151,9 @@ Collect resources
 
 - [ ] [webpack引入eslint详解 - 前端周分享 - SegmentFault 思否](https://app.yinxiang.com/shard/s59/nl/11394703/f58cccff-28ef-4b63-b4b0-5436a60caaa4/)
 
+### CSS
+- [ ] [BEM命名规范入门及常用CSS class 命名 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/aa1eaca3-e541-4068-b3df-607b1e3525ba/)
+
 ---  
 
 ## 浏览器调试技巧
@@ -126,12 +166,59 @@ Collect resources
 ## 编辑器
 - [x] [在用VSCode? 看完这篇文章, 开发效率翻倍!最后一条厉害了~](https://app.yinxiang.com/shard/s59/nl/11394703/013a11ec-b7fa-4e8f-8741-ab3d22817c2f/)
 
+- [x] [vue Eslint 自动修复 in Vscode - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/f2507e23-4685-4d91-82e9-df96c322f8b6/)
+
 ---  
 
-## 后端
+## Java
+### DB
+#### SQL Server
 - [x] [Java连接SQL Server教程全 - HelloWorld, GraspWorld! - CSDN博客](https://app.yinxiang.com/shard/s59/nl/11394703/f480ba30-fa79-455c-b2ef-14adf7efdae0/)
 
----  
+### MyBatis
+- [ ] [30分钟入门MyBatis](https://app.yinxiang.com/shard/s59/nl/11394703/f9add7a6-75ab-4343-a36f-b9e3152bd1f9/)
+
+### 日志
+- [ ] [log4j中的MDC和NDC - 程欢 - 博客园](https://app.yinxiang.com/shard/s59/nl/11394703/64e45a83-9613-4956-bfa9-77872c92d617/)
+
+### RESTful
+- [ ] [阮一峰——RESTful API最佳实践](https://app.yinxiang.com/shard/s59/nl/11394703/e1c20725-5352-46b5-a17a-b9da48459860/)
+
+- [ ] [微软 RESTful-API设计指导](https://app.yinxiang.com/shard/s59/nl/11394703/53121dc1-3abb-4d65-adfe-7495999e7601/)
+
+--- 
+
+## 设计模式
+### 前端
+- [ ] [前端设计模式 - a running snail - SegmentFault 思否](https://app.yinxiang.com/shard/s59/nl/11394703/b3e9d63f-fabc-41d6-b84e-a0af8b04de4b/)
+
+---
+
+## 项目
+- [ ] [Web聊天工具的富文本输入框 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/e7e35fc2-8e52-4a1a-ac45-39e79e804ca8/)
+
+- [ ] [用Node+wechaty写一个爬虫脚本每天定时给女(男)朋友发微信暖心话 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/bbc33d08-28ca-4818-bf0c-e7d5b845afb7/)
+
+---
+
+## 浏览器
+- [ ] [在浏览器地址栏按回车、F5、Ctrl+F5刷新网页的区别](https://app.yinxiang.com/shard/s59/nl/11394703/9f8ae72d-aadb-43cd-a16b-acd03a1f7963/)
+
+- [ ] [URL中“#” “？” &“”号的作用 - jihite - 博客园](https://app.yinxiang.com/shard/s59/nl/11394703/cdc95407-ccc0-4175-b894-c848c1e6a2a0/)
+
+### 跨域
+- [x] [不要再问我跨域的问题了 - 个人文章 - SegmentFault 思否](https://app.yinxiang.com/shard/s59/nl/11394703/67c09ca7-7954-4ee8-b623-df25727c3dc9/)
+
+
+### 缓存
+- [ ] [你应该知道的浏览器缓存知识 - 韩小平的博客](https://app.yinxiang.com/shard/s59/nl/11394703/a6654feb-7587-435b-97e3-96096177ae9f/)
+
+--- 
+
+## 奇淫巧技
+- [ ] [十分钟学会 tmux - 猫哥_kaiye - 博客园](https://app.yinxiang.com/shard/s59/nl/11394703/1ea2186d-9d91-4865-b380-d8c67008e22c/)
+
+--- 
 
 ## Read
 - [x] [如何写出没有BUG的代码](https://app.yinxiang.com/shard/s59/nl/11394703/fbc905b4-de2e-4487-8db0-92921eca7d6c/)
@@ -155,5 +242,17 @@ Collect resources
 - [ ] [如何学会阅读源码](https://app.yinxiang.com/shard/s59/nl/11394703/1c39eac8-ed6b-4c34-849f-8706bb53476b/)
 
 - [ ] [前端程序员必知：单页面应用的核心](https://app.yinxiang.com/shard/s59/nl/11394703/1fa6988f-b579-4547-80a8-79445da748dc/)
+
+- [ ] [程序员如何成为编程高手，并以此创业](https://app.yinxiang.com/shard/s59/nl/11394703/fcb63dbf-5fbe-4fbf-94ef-94e60b55759c/)
+
+- [ ] [JWT究竟是什么呢? | Fundebug博客](https://app.yinxiang.com/shard/s59/nl/11394703/c15e9c27-b798-4f79-8f1b-f6e594b16a6e/)
+
+- [ ] [这可能是我见过的最好的编程指南](https://app.yinxiang.com/shard/s59/nl/11394703/f48e5616-3fe8-4485-99ad-a708837de2f5/)
+
+- [ ] [从自己写代码到带人写代码，角色转变应该关注的10个角度](https://app.yinxiang.com/shard/s59/nl/11394703/7c9ca4f1-f007-4f66-83ff-28de9604e54c/)
+
+- [ ] [离开华为三年，我才真正认同狼性文化](https://app.yinxiang.com/shard/s59/nl/11394703/6448c7b2-5c77-4346-a77f-43ed22150e85/)
+
+- [ ] [操作系统Unix、Windows、Mac OS、Linux的故事 科普篇 - zhanghow的博客 - CSDN博客](https://app.yinxiang.com/shard/s59/nl/11394703/382b6417-cf0f-4a12-9ab6-90c145615099/)
 
 ---  
