@@ -107,6 +107,8 @@ Collect resources
 ### 坑
 - [ ] [中文輸入法與React文字輸入框的問題與解決方案](https://app.yinxiang.com/shard/s59/nl/11394703/99cc4295-5095-4da0-83bf-c0dfb2f91c24/)
 
+## Angular
+- [x] [Angular 实现输入框中显示文章标签 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/8f2d8f44-916a-4b6a-b02f-316e5ff61b27/)
 
 ## 移动端
 - [x] [关于移动端适配，你必须要知道的 - code秘密花园 - SegmentFault 思否](https://app.yinxiang.com/shard/s59/nl/11394703/5ef0689a-02af-449a-9d55-2847cb4e4b30/)  
