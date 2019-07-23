@@ -43,9 +43,6 @@ Collect resources
 
 
 ## 项目管理
-- [ ] [前端重构方案了解一下 - IT程序猿](https://app.yinxiang.com/shard/s59/nl/11394703/fa1365f3-225a-4b4c-97b0-2d42131ae34f/)
-
-- [ ] [前端框架有哪些](https://app.yinxiang.com/shard/s59/nl/11394703/05c64ebd-cfc0-4676-8b9a-d5887a3b9a72/)
 
 ### 前端
 - [x] [从 0 到 1 再到 100, 搭建、编写、构建一个前端项目 - 深予之 - SegmentFault 思否](https://app.yinxiang.com/shard/s59/nl/11394703/1808896d-201d-4091-b29e-bc8ab0e0eb29/)
@@ -55,6 +52,12 @@ Collect resources
 - [ ] [前端项目如何管理 - 深予之 - SegmentFault 思否](https://app.yinxiang.com/shard/s59/nl/11394703/936794fc-123e-4bc9-a9a8-8b7432730bc8/)
 
 - [x] [前端开发与项目管理](https://app.yinxiang.com/shard/s59/nl/11394703/51c8727e-d868-4748-9880-05010c1990a4/)
+
+- [ ] [前端重构方案了解一下 - IT程序猿](https://app.yinxiang.com/shard/s59/nl/11394703/fa1365f3-225a-4b4c-97b0-2d42131ae34f/)
+
+- [ ] [前端框架有哪些](https://app.yinxiang.com/shard/s59/nl/11394703/05c64ebd-cfc0-4676-8b9a-d5887a3b9a72/)
+
+- [手摸手，带你用vue撸后台 系列](https://juejin.im/post/59097cd7a22b9d0065fb61d2)
 
 ### 前端异常处理
 - [ ] [如何优雅处理前端异常？ | Fundebug博客](https://app.yinxiang.com/shard/s59/nl/11394703/e3c040fb-437b-4f60-9e63-a7ca6bab5626/)
