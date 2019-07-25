@@ -106,6 +106,8 @@
 
 - [ ] [关于React v16.3 新生命周期 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/e23f3b96-53bc-4555-a787-5a982d93ef80/)
 
+- [x] [React入门---react脚手架 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/02b6cbbf-9d46-48ba-8869-960cd9c42ae3/)
+
 ### 坑
 - [ ] [中文輸入法與React文字輸入框的問題與解決方案](https://app.yinxiang.com/shard/s59/nl/11394703/99cc4295-5095-4da0-83bf-c0dfb2f91c24/)
 
@@ -118,6 +120,13 @@
 
 ## Electron
 - [x] [如何正确地下载electron](https://app.yinxiang.com/shard/s59/nl/11394703/5c1aff55-1a7c-487f-b220-1d98c58eb379/)
+
+- [x] [electron原来这么简单----打包你的react、VUE桌面应用程序 - 个人文章 - SegmentFault 思否](https://app.yinxiang.com/shard/s59/nl/11394703/e62d79f6-9737-46f0-9827-bed12deaae50/)
+
+- [x] [React + Electron 搭建一个桌面应用 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/1033b215-9744-41ab-bbcb-d3c5819c855d/)
+
+- [x] [结合React创建Electron桌面应用](https://app.yinxiang.com/shard/s59/nl/11394703/5f1ed536-d6c3-4ba0-82d5-16116161291c/)
+
 
 
 ## HTML & CSS & JavaScript
@@ -151,6 +160,8 @@
 
 ### CSS
 - [ ] [BEM命名规范入门及常用CSS class 命名 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/aa1eaca3-e541-4068-b3df-607b1e3525ba/)
+
+- [x] [实现一个成熟的底层毛玻璃效果（纯CSS） - 个人文章 - SegmentFault 思否](https://app.yinxiang.com/shard/s59/nl/11394703/97321ab7-2a7f-4496-ab38-c8e9df534bac/)
 
 
 ## 浏览器调试技巧
