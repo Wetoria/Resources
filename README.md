@@ -58,6 +58,10 @@
 
 - [手摸手，带你用vue撸后台 系列](https://juejin.im/post/59097cd7a22b9d0065fb61d2)
 
+- [制定自己团队的前端开发规范 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/7ce25024-7472-4f8a-9689-45c940d219ac/)
+
+- [Code Guide by @AlloyTeam](https://app.yinxiang.com/shard/s59/nl/11394703/834b492e-c18f-41a1-9097-2968fd7e0397/)
+
 ### 前端异常处理
 - [ ] [如何优雅处理前端异常？ | Fundebug博客](https://app.yinxiang.com/shard/s59/nl/11394703/e3c040fb-437b-4f60-9e63-a7ca6bab5626/)
 
@@ -144,6 +148,8 @@
 
 - [x] [轻松理解JS函数节流和函数防抖 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/58a835a3-e0fe-4331-8690-df29efdd62b3/)
 
+- [x] [JS 中有趣的事实 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/891d1b97-6dd4-4f71-9a54-f0f1501294ac/)
+
 
 ## 如何编写高质量的代码
 - [ ] [前端进阶（3） - 怎样提升代码质量 - 深予之 - SegmentFault 思否](https://app.yinxiang.com/shard/s59/nl/11394703/2734acad-d387-4ddd-8ed5-c8bed97d794e/)
@@ -157,6 +163,8 @@
 - [x] [eslint + pre-commit检测代码](https://app.yinxiang.com/shard/s59/nl/11394703/d57f430f-85fa-4a7c-8a51-d32657ecba01/)
 
 - [ ] [webpack引入eslint详解 - 前端周分享 - SegmentFault 思否](https://app.yinxiang.com/shard/s59/nl/11394703/f58cccff-28ef-4b63-b4b0-5436a60caaa4/)
+
+- [制定自己团队的前端开发规范之 eslint - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/73bd1da7-6e72-4fda-b8c0-0d9fc13fb3fd/)
 
 ### CSS
 - [ ] [BEM命名规范入门及常用CSS class 命名 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/aa1eaca3-e541-4068-b3df-607b1e3525ba/)
@@ -227,6 +235,9 @@
 
 - [ ] [Mock.js](http://mockjs.com/0.1/)
 
+## 面试
+- [前端 100 问：能搞懂 80% 的请把简历给我 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/15156fc3-5668-486a-b013-88fbda9f33fb/)
+
 
 ## Read
 - [x] [如何写出没有BUG的代码](https://app.yinxiang.com/shard/s59/nl/11394703/fbc905b4-de2e-4487-8db0-92921eca7d6c/)
@@ -266,3 +277,5 @@
 - [ ] [别人都在做自己喜欢的工作，为什么你不可以！](https://app.yinxiang.com/shard/s59/nl/11394703/c28896bb-5861-4aed-ace3-ff3509838dc8/)
 
 - [ ] [这是我见过的把开发人员学习路线总结的最清晰的四张图了 ](https://app.yinxiang.com/shard/s59/nl/11394703/f616f78b-92f2-47c9-8fe3-de1942b8371f/)
+
+- [x] [拥抱B端 | 做惯了C端的人到底不适应在哪里？](https://app.yinxiang.com/shard/s59/nl/11394703/6d4d81c6-f163-49ff-92c3-1d7ce37064b4/)
