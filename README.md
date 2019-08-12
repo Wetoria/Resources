@@ -4,6 +4,8 @@
 
 ---  
 
+- [前端进阶必备，github 优质资源整理分享！ - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/209bf464-bbd4-4ef3-b19b-456821cf7d90/)
+
 ## node & npm
 - [ ] [前端工程化（5）：你所需要的npm知识储备都在这了](https://app.yinxiang.com/shard/s59/nl/11394703/b9f2e0f3-31d8-408f-8176-f465cab4f532/)  
 
@@ -62,11 +64,17 @@
 
 - [Code Guide by @AlloyTeam](https://app.yinxiang.com/shard/s59/nl/11394703/834b492e-c18f-41a1-9097-2968fd7e0397/)
 
+- [ ] [if 我是前端团队 Leader，怎么制定前端协作规范? - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/a72a8987-f332-4c58-ab14-394d11aaa0cb/)
+
+- [x] [【中高级前端必备】手摸手教你撸一个脚手架 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/4bd39a69-8ac8-4d10-a55b-03cdbc3f5204/)
+
 ### 前端异常处理
 - [ ] [如何优雅处理前端异常？ | Fundebug博客](https://app.yinxiang.com/shard/s59/nl/11394703/e3c040fb-437b-4f60-9e63-a7ca6bab5626/)
 
 ### 代码优化
 - [ ] [我在工作中是如何优化代码的 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/77372813-35eb-4ab0-9dea-85f06052ffb7/)
+
+- [x] [JS 的5个不良编码习惯，现在就改掉吧 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/16ea2e82-3971-466d-8f55-70b118d702ab/)
 
 
 ## Vue
@@ -112,6 +120,8 @@
 
 - [x] [React入门---react脚手架 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/02b6cbbf-9d46-48ba-8869-960cd9c42ae3/)
 
+- [x] [21个让React 开发更高效更有趣的工具 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/bf6fedf0-81ff-420e-bb83-7d5a9074a65f/)
+
 ### 坑
 - [ ] [中文輸入法與React文字輸入框的問題與解決方案](https://app.yinxiang.com/shard/s59/nl/11394703/99cc4295-5095-4da0-83bf-c0dfb2f91c24/)
 
@@ -120,6 +130,8 @@
 
 ## 移动端
 - [x] [关于移动端适配，你必须要知道的 - code秘密花园 - SegmentFault 思否](https://app.yinxiang.com/shard/s59/nl/11394703/5ef0689a-02af-449a-9d55-2847cb4e4b30/)  
+
+- [x] [9102了，你还不会移动端真机调试？ - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/42527036-5237-4af6-8ef5-744c11ac0f78/)
 
 
 ## Electron
@@ -131,12 +143,17 @@
 
 - [x] [结合React创建Electron桌面应用](https://app.yinxiang.com/shard/s59/nl/11394703/5f1ed536-d6c3-4ba0-82d5-16116161291c/)
 
+- [x] [Node.js Electron windows下安装与打包成 exe - oiKen的博客 - CSDN博客](https://app.yinxiang.com/shard/s59/nl/11394703/6cb5151d-cfe5-4367-805b-a61f2a77ad98/)
+
 
 
 ## HTML & CSS & JavaScript
 
 ### CSS
 - [x] [小tip:CSS vw让overflow:auto页面滚动条出现时不跳动 « 张鑫旭-鑫空间-鑫生活](https://app.yinxiang.com/shard/s59/nl/11394703/dc6ecb00-b4bd-4bea-a53e-b3c2cb27656e/)  
+
+- [x] [你所不知道的 CSS 负值技巧与细节 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/4e951fed-bef5-4764-a3ec-294e6a654391/)
+
 ### JavaScript
 - [x] [JS获取div高度的方法](https://app.yinxiang.com/shard/s59/nl/11394703/454aff2e-91c5-4b8e-9271-cf14ceacb58e/)
 
@@ -149,6 +166,8 @@
 - [x] [轻松理解JS函数节流和函数防抖 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/58a835a3-e0fe-4331-8690-df29efdd62b3/)
 
 - [x] [JS 中有趣的事实 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/891d1b97-6dd4-4f71-9a54-f0f1501294ac/)
+
+- [x] [什么时候不使用箭头函数 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/1702e631-57b5-48ef-8eb8-4bbda62064bd/)
 
 
 ## 如何编写高质量的代码
@@ -279,3 +298,11 @@
 - [ ] [这是我见过的把开发人员学习路线总结的最清晰的四张图了 ](https://app.yinxiang.com/shard/s59/nl/11394703/f616f78b-92f2-47c9-8fe3-de1942b8371f/)
 
 - [x] [拥抱B端 | 做惯了C端的人到底不适应在哪里？](https://app.yinxiang.com/shard/s59/nl/11394703/6d4d81c6-f163-49ff-92c3-1d7ce37064b4/)
+
+- [x] [一个程序员的五年总结，给你不一样的角度 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/a6a0db8b-f2cf-467e-b2e5-914efa67905c/)
+
+- [x] [解密初、中、高级程序员的进化之路（前端） - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/0a5b45b6-7348-4f0d-ad9f-1495b6051290/) [ ]
+
+- [x] [polyfill为何物 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/9bd8964e-00e6-43cd-bdca-efecccd855df/)
+
+- [x] [每个程序员都可以「懂」一点 Linux - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/0f4d545a-19ca-402b-97f5-bc26effad9ec/)
