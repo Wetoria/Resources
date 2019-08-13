@@ -173,6 +173,8 @@
 ## 如何编写高质量的代码
 - [ ] [前端进阶（3） - 怎样提升代码质量 - 深予之 - SegmentFault 思否](https://app.yinxiang.com/shard/s59/nl/11394703/2734acad-d387-4ddd-8ed5-c8bed97d794e/)
 
+- [前端开发变量命名系列 - JavaScript篇 - wujie520303 - SegmentFault 思否](https://app.yinxiang.com/shard/s59/nl/11394703/751de6b6-59a9-466f-8c4f-4854a517bc28/)
+
 ### JS
 - [x] [两个代码优化的例子 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/0d6191c9-4d4a-432c-b2d8-28ba80500d31/)  
 
@@ -184,6 +186,8 @@
 - [ ] [webpack引入eslint详解 - 前端周分享 - SegmentFault 思否](https://app.yinxiang.com/shard/s59/nl/11394703/f58cccff-28ef-4b63-b4b0-5436a60caaa4/)
 
 - [制定自己团队的前端开发规范之 eslint - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/73bd1da7-6e72-4fda-b8c0-0d9fc13fb3fd/)
+
+- [为create-react-app配置ESLint - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/849876f7-b8bd-4faf-8a3a-2a8dd43fd3a6/)
 
 ### CSS
 - [ ] [BEM命名规范入门及常用CSS class 命名 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/aa1eaca3-e541-4068-b3df-607b1e3525ba/)
@@ -204,6 +208,9 @@
 
 
 ## Java
+
+- [为什么阿里巴巴禁止开发人员使用 “isSuccess” 作为变量名？](https://app.yinxiang.com/shard/s59/nl/11394703/3a932022-6b97-44ea-b943-d5e5d3a6ca90/)
+
 ### DB
 #### SQL Server
 - [x] [Java连接SQL Server教程全 - HelloWorld, GraspWorld! - CSDN博客](https://app.yinxiang.com/shard/s59/nl/11394703/f480ba30-fa79-455c-b2ef-14adf7efdae0/)
@@ -235,6 +242,8 @@
 - [ ] [在浏览器地址栏按回车、F5、Ctrl+F5刷新网页的区别](https://app.yinxiang.com/shard/s59/nl/11394703/9f8ae72d-aadb-43cd-a16b-acd03a1f7963/)
 
 - [ ] [URL中“#” “？” &“”号的作用 - jihite - 博客园](https://app.yinxiang.com/shard/s59/nl/11394703/cdc95407-ccc0-4175-b894-c848c1e6a2a0/)
+
+- [x] [超越 Cookie：当今的客户端数据存储技术 - 疯狂的技术宅 - SegmentFault 思否](https://app.yinxiang.com/shard/s59/nl/11394703/06cb6cb5-ab57-4027-bb72-7f77e7b5e66a/)
 
 ### 跨域
 - [x] [不要再问我跨域的问题了 - 个人文章 - SegmentFault 思否](https://app.yinxiang.com/shard/s59/nl/11394703/67c09ca7-7954-4ee8-b623-df25727c3dc9/)
@@ -306,3 +315,5 @@
 - [x] [polyfill为何物 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/9bd8964e-00e6-43cd-bdca-efecccd855df/)
 
 - [x] [每个程序员都可以「懂」一点 Linux - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/0f4d545a-19ca-402b-97f5-bc26effad9ec/)
+
+- [关于 Git 的 20 个面试题 - 疯狂的技术宅 - SegmentFault 思否](https://app.yinxiang.com/shard/s59/nl/11394703/2152b8aa-ef87-4fad-bfc7-61a7b3ce62d7/)
