@@ -254,6 +254,10 @@
 
 - [ ] [彻底理解浏览器的缓存机制 - 前端 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/217bd84b-c3cc-45e3-9666-130fc353e6f5/)
 
+## 权限
+- [x] [http无状态和鉴权解决方案:cookie、session、token、oauth2及JWT](https://app.yinxiang.com/shard/s59/nl/11394703/6dc3640a-7f71-439f-b085-7cf930fcae63/)
+
+- [x] [使用jwt完成sso单点登录](https://app.yinxiang.com/shard/s59/nl/11394703/f2bf0009-3afd-47fe-bb51-604a14dd65e7/)
 
 ## 奇淫巧技
 - [ ] [十分钟学会 tmux - 猫哥_kaiye - 博客园](https://app.yinxiang.com/shard/s59/nl/11394703/1ea2186d-9d91-4865-b380-d8c67008e22c/)
