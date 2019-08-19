@@ -200,6 +200,8 @@
 
 - [x] [灵活使用 console 让 js 调试更简单 - 终身学习者 - SegmentFault 思否](https://app.yinxiang.com/shard/s59/nl/11394703/b94dab57-78e5-4873-93b2-bbc835c583c2/)
 
+- [x] [使用chrome开发者工具中的performance面板解决性能瓶颈 - 小火柴的蓝色理想 - 博客园](https://app.yinxiang.com/shard/s59/nl/11394703/afc7becb-d09d-4c35-9a98-c91b58cb1611/)
+
 
 ## 编辑器
 - [x] [在用VSCode? 看完这篇文章, 开发效率翻倍!最后一条厉害了~](https://app.yinxiang.com/shard/s59/nl/11394703/013a11ec-b7fa-4e8f-8741-ab3d22817c2f/)
@@ -261,6 +263,8 @@
 
 ## 奇淫巧技
 - [ ] [十分钟学会 tmux - 猫哥_kaiye - 博客园](https://app.yinxiang.com/shard/s59/nl/11394703/1ea2186d-9d91-4865-b380-d8c67008e22c/)
+
+- [x] [一些 实用的 git 小技巧 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/35f40735-01d5-46fb-84a4-b391a84a37da/)
 
 ## Mock
 - [ ] [纯手工打造前端后端分离项目中的mock-server](https://yanm1ng.github.io/2017/06/12/%E7%BA%AF%E6%89%8B%E5%B7%A5%E6%89%93%E9%80%A0%E5%89%8D%E7%AB%AF%E5%90%8E%E7%AB%AF%E5%88%86%E7%A6%BB%E9%A1%B9%E7%9B%AE%E4%B8%AD%E7%9A%84mock-server/)
