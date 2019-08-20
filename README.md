@@ -274,6 +274,9 @@
 ## 面试
 - [前端 100 问：能搞懂 80% 的请把简历给我 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/15156fc3-5668-486a-b013-88fbda9f33fb/)
 
+## 3D
+- [一步步带你实现web全景看房——three.js - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/204b8ebe-524c-4334-900a-0a0f0b234b35/)
+
 
 ## Read
 - [x] [如何写出没有BUG的代码](https://app.yinxiang.com/shard/s59/nl/11394703/fbc905b4-de2e-4487-8db0-92921eca7d6c/)
@@ -325,3 +328,5 @@
 - [x] [每个程序员都可以「懂」一点 Linux - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/0f4d545a-19ca-402b-97f5-bc26effad9ec/)
 
 - [关于 Git 的 20 个面试题 - 疯狂的技术宅 - SegmentFault 思否](https://app.yinxiang.com/shard/s59/nl/11394703/2152b8aa-ef87-4fad-bfc7-61a7b3ce62d7/)
+
+- [x] [前端工程师如何才能不焦虑？ - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/07ab3ba1-3582-4bfe-8055-938d8ad2ad6a/)
