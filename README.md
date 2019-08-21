@@ -330,3 +330,5 @@
 - [关于 Git 的 20 个面试题 - 疯狂的技术宅 - SegmentFault 思否](https://app.yinxiang.com/shard/s59/nl/11394703/2152b8aa-ef87-4fad-bfc7-61a7b3ce62d7/)
 
 - [x] [前端工程师如何才能不焦虑？ - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/07ab3ba1-3582-4bfe-8055-938d8ad2ad6a/)
+
+- [x] [Linux上的Shebang符号(#!) – 笑遍世界](https://app.yinxiang.com/shard/s59/nl/11394703/68afaea3-b5f1-41df-bbdd-f25b7bf05dc0/)
