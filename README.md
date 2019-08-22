@@ -148,6 +148,10 @@
 
 
 ## HTML & CSS & JavaScript
+### HTML
+- [x] [contentEditable的Change判断 | 临水照影的博客](https://app.yinxiang.com/shard/s59/nl/11394703/2c6ae227-afbc-41fc-aee0-c81a6c20f9f6/)
+
+- [x] [javascript – 在contentEditable中禁止行/段落 - 代码日志](https://app.yinxiang.com/shard/s59/nl/11394703/19dd3f3e-6d9e-4567-8d34-c992b18f1bd1/)
 
 ### CSS
 - [x] [小tip:CSS vw让overflow:auto页面滚动条出现时不跳动 « 张鑫旭-鑫空间-鑫生活](https://app.yinxiang.com/shard/s59/nl/11394703/dc6ecb00-b4bd-4bea-a53e-b3c2cb27656e/)  
