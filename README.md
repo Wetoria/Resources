@@ -281,6 +281,10 @@
 ## 3D
 - [一步步带你实现web全景看房——three.js - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/204b8ebe-524c-4334-900a-0a0f0b234b35/)
 
+## git
+
+- [x] [git 子模块的使用姿势](https://app.yinxiang.com/shard/s59/nl/11394703/18eeadb2-af8a-4b90-b5af-488da3804a21/)
+
 
 ## Read
 - [x] [如何写出没有BUG的代码](https://app.yinxiang.com/shard/s59/nl/11394703/fbc905b4-de2e-4487-8db0-92921eca7d6c/)
@@ -336,3 +340,11 @@
 - [x] [前端工程师如何才能不焦虑？ - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/07ab3ba1-3582-4bfe-8055-938d8ad2ad6a/)
 
 - [x] [Linux上的Shebang符号(#!) – 笑遍世界](https://app.yinxiang.com/shard/s59/nl/11394703/68afaea3-b5f1-41df-bbdd-f25b7bf05dc0/)
+
+- [x] [VS Code为什么能这么牛？](https://app.yinxiang.com/shard/s59/nl/11394703/86274b56-69f7-40a6-a233-e27307e32e22/)
+
+- [x] [公司不重视前端怎么办？ « 张鑫旭-鑫空间-鑫生活](https://app.yinxiang.com/shard/s59/nl/11394703/2da4cade-8316-4392-87a8-6c62475bd5ec/)
+
+- [x] [Product Manager vs Project Manager: How to Avoid Confusion?](https://app.yinxiang.com/shard/s59/nl/11394703/d238aaf8-3917-41a0-9d71-01fa53521fc5/)
+
+- [x] [Writing a small static site generator - Thea Flowers](https://app.yinxiang.com/shard/s59/nl/11394703/07c11aba-bfaf-4731-a145-aeb2657b89bf/)
