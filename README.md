@@ -145,6 +145,9 @@
 
 - [x] [Node.js Electron windows下安装与打包成 exe - oiKen的博客 - CSDN博客](https://app.yinxiang.com/shard/s59/nl/11394703/6cb5151d-cfe5-4367-805b-a61f2a77ad98/)
 
+- [x] [使用create-react-app构建Electron应用 - 众成翻译](https://app.yinxiang.com/shard/s59/nl/11394703/eae1aa4e-79af-49de-b79a-e305d6a612d6/)
+
+- [x] [Using FS in CRA + Electron · Issue #6782 · facebook/create-react-app](https://app.yinxiang.com/shard/s59/nl/11394703/ccfe7c19-83d1-4c7d-ac67-118ba1480144/)
 
 
 ## HTML & CSS & JavaScript
@@ -285,6 +288,8 @@
 
 - [x] [git 子模块的使用姿势](https://app.yinxiang.com/shard/s59/nl/11394703/18eeadb2-af8a-4b90-b5af-488da3804a21/)
 
+## AppleScript
+[AppleScript](./AppleScript)
 
 ## Read
 - [x] [如何写出没有BUG的代码](https://app.yinxiang.com/shard/s59/nl/11394703/fbc905b4-de2e-4487-8db0-92921eca7d6c/)

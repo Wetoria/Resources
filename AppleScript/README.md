@@ -1,0 +1,1 @@
+- [Apple Script 使用和常见问题](https://app.yinxiang.com/shard/s59/nl/11394703/1af68e12-c0d8-45bd-a2b4-dc966f44482b/)
