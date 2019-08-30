@@ -25,6 +25,8 @@
 
 - [x] [What's the difference between a tilde (~) and a caret (^) in a npm package.json file? / Michael Lee](https://app.yinxiang.com/shard/s59/nl/11394703/bbd6d2f3-b1b9-4d9a-adc4-0b6199ddd32c/)
 
+- [x] [【手把手】15分钟搭一个企业级脚手架 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/c1f5a079-f700-433a-aa97-c7f6868602a4/)
+
 ### nvm
 - [x] [使用 nvm 管理不同版本的 node 与 npm](https://app.yinxiang.com/shard/s59/nl/11394703/6f09f0c6-5ebc-4cda-b0ef-5297905022b9/)
 
@@ -86,6 +88,8 @@
 - [x] [在vue中使用jsx语法 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/c57bb89a-9ce1-4ed5-83e5-e13f5b4e80b5/)
 
 - [x] [vue项目中配置favicon图标 - XuM222222的博客 - CSDN博客](https://app.yinxiang.com/shard/s59/nl/11394703/c6f120b7-fdcc-46ba-96b7-6382faee2a9b/)
+
+- [Vue插槽，你想了解的都在这里! - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/7f8dbe7d-4cd0-4fd4-8c65-4acc0ccbb61f/)
 
 ### 性能优化
 - [x] [vue性能优化小结 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/899560fc-aecc-4beb-9f2a-f3cbf6af12af/)  
@@ -161,6 +165,8 @@
 
 - [x] [你所不知道的 CSS 负值技巧与细节 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/4e951fed-bef5-4764-a3ec-294e6a654391/)
 
+- [x] [【前端词典】这些功能其实不需要 JS，CSS 就能搞定 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/56f0933f-5d33-483c-a00b-bcb8ef57847d/)
+
 ### JavaScript
 - [x] [JS获取div高度的方法](https://app.yinxiang.com/shard/s59/nl/11394703/454aff2e-91c5-4b8e-9271-cf14ceacb58e/)
 
@@ -176,6 +182,7 @@
 
 - [x] [什么时候不使用箭头函数 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/1702e631-57b5-48ef-8eb8-4bbda62064bd/)
 
+- [x] [利用"交叉观察者"这个小宝贝儿，轻松实现懒加载、吸顶、触底 ❗ - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/704d7214-9db1-4472-9aff-a5d8e87c552a/) [ ]
 
 ## 如何编写高质量的代码
 - [ ] [前端进阶（3） - 怎样提升代码质量 - 深予之 - SegmentFault 思否](https://app.yinxiang.com/shard/s59/nl/11394703/2734acad-d387-4ddd-8ed5-c8bed97d794e/)
