@@ -295,6 +295,9 @@
 
 - [x] [git 子模块的使用姿势](https://app.yinxiang.com/shard/s59/nl/11394703/18eeadb2-af8a-4b90-b5af-488da3804a21/)
 
+## 网络
+- [x] [浅析 URL - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/3ff928b3-516a-46d8-a316-0baed9d6663a/)
+
 ## AppleScript
 [AppleScript](./AppleScript)
 
