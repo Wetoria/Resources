@@ -91,6 +91,10 @@
 
 - [Vue插槽，你想了解的都在这里! - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/7f8dbe7d-4cd0-4fd4-8c65-4acc0ccbb61f/)
 
+- [x] [构建Vue.js组件的10个技巧 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/4bff6992-8f62-4e0c-aa88-9446301ba4a8/)
+
+- [x] [Vue 实用开发技巧 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/38f5afb0-edf0-4723-97fd-80a665f2b784/)
+
 ### 性能优化
 - [x] [vue性能优化小结 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/899560fc-aecc-4beb-9f2a-f3cbf6af12af/)  
 
@@ -98,11 +102,19 @@
 
 - [x] [Cookbook：优化 Vue 组件的运行时性能](https://app.yinxiang.com/shard/s59/nl/11394703/1557dfa8-7df9-49c3-b66d-b8d68d56f07e/)  
 
+- [x] [Vue.js应用性能优化一](https://app.yinxiang.com/shard/s59/nl/11394703/f5d701f9-10b4-4b99-aceb-f8de1902016c/)
+
+- [x] [Vue.js应用性能优化二](https://app.yinxiang.com/shard/s59/nl/11394703/95de1b35-f68c-4df2-a02e-239db7d354b2/)
+
+- [x] [Vue.js应用性能优化三](https://app.yinxiang.com/shard/s59/nl/11394703/e82442cc-a696-45d3-80f3-51a456cd2004/)
+
 ### 坑
 - [x] [vue+element 键盘回车事件导致页面刷新的问题 - 邵阳肖敏的博客 - CSDN博客](https://app.yinxiang.com/shard/s59/nl/11394703/6aa35589-4daa-49cd-a1d7-9d3ebb0b8b17/)  
 
 ### Element-UI
 - [x] [优雅的使用 element-ui 中的 table 组件 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/027c3a85-17c1-4277-a7ea-28cbb0b38ab0/)
+
+- [x] [elementUI中dialog踩坑 - 台部落](https://app.yinxiang.com/shard/s59/nl/11394703/7367c5c5-4b3d-400c-b5de-354e36100c0b/)
 
 ### Vuex
 - [x] [vuex在vue项目中的使用 - kirinlau的专栏 - CSDN博客](https://app.yinxiang.com/shard/s59/nl/11394703/cab63000-c774-400a-99d9-39a0e82df181/)
@@ -183,6 +195,10 @@
 - [x] [什么时候不使用箭头函数 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/1702e631-57b5-48ef-8eb8-4bbda62064bd/)
 
 - [x] [利用"交叉观察者"这个小宝贝儿，轻松实现懒加载、吸顶、触底 ❗ - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/704d7214-9db1-4472-9aff-a5d8e87c552a/) [ ]
+
+- [x] [JS异常函数之-箭头函数 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/dd86d6b9-29e1-4b00-96af-57c241a26d01/)
+
+- [x] [25个JavaScript代码简写技巧(下篇) - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/a5c348ac-5f9d-4a8c-ae9a-25a49ab47fd6/)
 
 ## 如何编写高质量的代码
 - [ ] [前端进阶（3） - 怎样提升代码质量 - 深予之 - SegmentFault 思否](https://app.yinxiang.com/shard/s59/nl/11394703/2734acad-d387-4ddd-8ed5-c8bed97d794e/)
@@ -298,6 +314,16 @@
 ## 网络
 - [x] [浅析 URL - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/3ff928b3-516a-46d8-a316-0baed9d6663a/)
 
+## Linux
+- [x] [web 前端用 linux 应该知道的知识 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/4c71c9c9-fbb5-44eb-ba43-7b53531fcc4b/)
+
+## 正则表达式
+- [x] [正则表达式中i,g,ig,gi,m的区别和含义](https://app.yinxiang.com/shard/s59/nl/11394703/45674d9e-ea4d-4ba2-a2f0-08b8025eb430/)
+
+## 持续集成
+- [x] [持续集成是什么？ - 阮一峰的网络日志](https://app.yinxiang.com/shard/s59/nl/11394703/102dbbaa-a769-423d-a3f4-0703dd718e0e/)
+
+
 ## AppleScript
 [AppleScript](./AppleScript)
 
@@ -363,3 +389,5 @@
 - [x] [Product Manager vs Project Manager: How to Avoid Confusion?](https://app.yinxiang.com/shard/s59/nl/11394703/d238aaf8-3917-41a0-9d71-01fa53521fc5/)
 
 - [x] [Writing a small static site generator - Thea Flowers](https://app.yinxiang.com/shard/s59/nl/11394703/07c11aba-bfaf-4731-a145-aeb2657b89bf/)
+
+- [x] [面试官: 100万个成员的数组取第一个和最后一个有性能差距吗? - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/07e77b79-d184-4dd0-963f-274bdb148cea/)
