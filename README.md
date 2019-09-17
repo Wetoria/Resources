@@ -95,6 +95,10 @@
 
 - [x] [Vue 实用开发技巧 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/38f5afb0-edf0-4723-97fd-80a665f2b784/)
 
+- [x] [撸一个 Vue 自定义指令实现一键 Copy的功能 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/2a31f3b9-7de1-44a0-85ce-58d9f3854309/)
+
+- [x] [从一次性能优化看Vue的一个“feature” - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/87c902e6-9fde-480a-9a9b-a493135faefd/)
+
 ### 性能优化
 - [x] [vue性能优化小结 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/899560fc-aecc-4beb-9f2a-f3cbf6af12af/)  
 
@@ -200,6 +204,8 @@
 
 - [x] [25个JavaScript代码简写技巧(下篇) - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/a5c348ac-5f9d-4a8c-ae9a-25a49ab47fd6/)
 
+- [x] [浏览器的一些“滚动”行为鉴赏 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/9631ad65-6d87-43e2-bbe7-67f61708b1c3/)
+
 ## 如何编写高质量的代码
 - [ ] [前端进阶（3） - 怎样提升代码质量 - 深予之 - SegmentFault 思否](https://app.yinxiang.com/shard/s59/nl/11394703/2734acad-d387-4ddd-8ed5-c8bed97d794e/)
 
@@ -296,6 +302,8 @@
 
 - [x] [一些 实用的 git 小技巧 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/35f40735-01d5-46fb-84a4-b391a84a37da/)
 
+- [x] [你可能不知道的 Markdown 骚操作 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/d8327957-575b-43a2-b174-63460fa25cf9/)
+
 ## Mock
 - [ ] [纯手工打造前端后端分离项目中的mock-server](https://yanm1ng.github.io/2017/06/12/%E7%BA%AF%E6%89%8B%E5%B7%A5%E6%89%93%E9%80%A0%E5%89%8D%E7%AB%AF%E5%90%8E%E7%AB%AF%E5%88%86%E7%A6%BB%E9%A1%B9%E7%9B%AE%E4%B8%AD%E7%9A%84mock-server/)
 
@@ -391,3 +399,11 @@
 - [x] [Writing a small static site generator - Thea Flowers](https://app.yinxiang.com/shard/s59/nl/11394703/07c11aba-bfaf-4731-a145-aeb2657b89bf/)
 
 - [x] [面试官: 100万个成员的数组取第一个和最后一个有性能差距吗? - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/07e77b79-d184-4dd0-963f-274bdb148cea/)
+
+- [x] [Web验证的过去现在与未来 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/331243cf-1da1-4d04-a359-cb84c707318b/)
+
+- [x] [不要肆无忌惮地在你的项目中使用 ES78910 了～ - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/8caecb65-54f9-4706-b88e-8a7a6465488f/)
+
+- [x] [如何优雅的使用javascript递归画一棵结构树 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/cb58f62a-c9b7-4db3-81e2-30fda33ebc15/)
+
+- [x] [网络协议的几个概念 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/75a426b9-a5ea-4fd8-9c2a-d2e3388f1c97/)
