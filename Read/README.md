@@ -47,3 +47,17 @@
 - [如何成为有效学习的高手：5. 直奔大师，不必从基础开始 · Issue #82 · chencl1986/Blog](https://app.yinxiang.com/shard/s59/nl/11394703/19dae95f-dbed-4b61-9ba8-776a9e5cc7d7/)
 
 - [我在华为学到最大的本事，就是“走后门”](https://app.yinxiang.com/shard/s59/nl/11394703/6b64ac74-6864-461f-8aaf-ece047d2adfd/)
+
+- [翻滚吧！老板](https://app.yinxiang.com/shard/s59/nl/11394703/22475261-cbc3-454f-9e5e-af5620b18c11/)
+
+- [领导那么无能，为什么还占据着那个位置？](https://app.yinxiang.com/shard/s59/nl/11394703/15cc1f90-3928-4bbc-b5a6-6b8618dd8228/)
+
+- [如何成为有效学习的高手：6. 给自己制造反馈 · Issue #83 · chencl1986/Blog](https://app.yinxiang.com/shard/s59/nl/11394703/79ab9e3b-ea48-49cf-bf37-f25146e5c3fd/)
+
+- [如何成为有效学习的高手：7. 怎样突破学习瓶颈 · Issue #84 · chencl1986/Blog](https://app.yinxiang.com/shard/s59/nl/11394703/43e8c8bd-398c-4c67-8e59-66f4cee47525/)
+
+- [如何清除团队中的“害群之马”？（上篇） · Issue #57 · chencl1986/Blog](https://app.yinxiang.com/shard/s59/nl/11394703/ff293124-a6cf-4c4d-9c18-280b8df9da28/)
+
+- [如何清除团队中的“害群之马”？（下篇） · Issue #58 · chencl1986/Blog](https://app.yinxiang.com/shard/s59/nl/11394703/1ca30731-2ba7-419a-aaea-764fdf8d1f02/)
+
+- [阿里为什么良将如潮？](https://app.yinxiang.com/shard/s59/nl/11394703/e2804792-fed2-49fc-b76d-e376a71a4120/)
