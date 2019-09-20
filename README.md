@@ -70,6 +70,8 @@
 
 - [x] [【中高级前端必备】手摸手教你撸一个脚手架 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/4bd39a69-8ac8-4d10-a55b-03cdbc3f5204/)
 
+- [前端开发技术栈推荐 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/5d454bcd-375f-4282-a460-fb78fb16253d/)
+
 ### 前端异常处理
 - [ ] [如何优雅处理前端异常？ | Fundebug博客](https://app.yinxiang.com/shard/s59/nl/11394703/e3c040fb-437b-4f60-9e63-a7ca6bab5626/)
 
@@ -304,6 +306,10 @@
 
 - [x] [你可能不知道的 Markdown 骚操作 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/d8327957-575b-43a2-b174-63460fa25cf9/)
 
+- [x] [Markdown-图片设置（大小，居中） - quanwei的博客 - CSDN博客](https://app.yinxiang.com/shard/s59/nl/11394703/65dfe687-02a2-47f5-a7cf-a7405d302083/)
+
+- [x] [markdown折叠内容语法](https://app.yinxiang.com/shard/s59/nl/11394703/81b50db0-0946-47e8-8212-6ef486b584d0/)
+
 ## Mock
 - [ ] [纯手工打造前端后端分离项目中的mock-server](https://yanm1ng.github.io/2017/06/12/%E7%BA%AF%E6%89%8B%E5%B7%A5%E6%89%93%E9%80%A0%E5%89%8D%E7%AB%AF%E5%90%8E%E7%AB%AF%E5%88%86%E7%A6%BB%E9%A1%B9%E7%9B%AE%E4%B8%AD%E7%9A%84mock-server/)
 
@@ -331,6 +337,22 @@
 ## 持续集成
 - [x] [持续集成是什么？ - 阮一峰的网络日志](https://app.yinxiang.com/shard/s59/nl/11394703/102dbbaa-a769-423d-a3f4-0703dd718e0e/)
 
+## Curry
+- [x] [三行代码实现 JS 柯里化 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/9c863d2e-9b58-4c78-80d0-1a0a774d9b30/)
+
+- [x] [JavaScript 专题之函数柯里化 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/482b7c81-d67a-433a-a51d-00d09fba98a0/)
+
+- [x] [「前端进阶」彻底弄懂函数柯里化 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/b673ff21-50ae-4d5b-af68-9cf1be1d607c/)
+
+- [x] [编程范式 —— 函数式编程入门 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/6d90b2a7-6b5f-4001-8136-11846dc79190/)
+
+- [x] [Partial & Curry - 函数式编程 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/3662fd0d-6082-4b20-9fe6-8203ce2f1c5c/)
+
+- [x] [函数式点滴--partial&curry - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/874cd206-0ebc-4dab-a49b-fc8fa90278a6/)
+
+- [x] [js的curry和函数组合 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/e13182bd-0c35-4974-bb2d-b392e811a0d9/)
+
+- [x] [「前端发动机」从 bind 聊到 curry （柯里化） - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/86577a3b-3f53-4fe4-8c06-677ac46bd251/)
 
 ## AppleScript
 [AppleScript](./AppleScript)
