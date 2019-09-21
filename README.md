@@ -354,6 +354,14 @@
 
 - [x] [「前端发动机」从 bind 聊到 curry （柯里化） - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/86577a3b-3f53-4fe4-8c06-677ac46bd251/)
 
+## 富文本
+- [x] [Tinymce - 宇宙第一富文本编辑器？[1] - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/95923080-2a52-4be6-bc5c-af5a36e63135/)
+
+- [x] [Vue之富文本tinymce爬坑录 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/b099c082-917d-48c8-a9bf-16390071ea02/)
+
+## Clean Architecture
+- [x] [前端架构-让重构不那么痛苦（译） - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/43407352-1ca3-4c4c-8846-4b55464f1aa1/)
+
 ## AppleScript
 [AppleScript](./AppleScript)
 
@@ -429,3 +437,5 @@
 - [x] [如何优雅的使用javascript递归画一棵结构树 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/cb58f62a-c9b7-4db3-81e2-30fda33ebc15/)
 
 - [x] [网络协议的几个概念 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/75a426b9-a5ea-4fd8-9c2a-d2e3388f1c97/)
+
+- [x] [函数式编程](https://app.yinxiang.com/shard/s59/nl/11394703/7bf153c7-e294-4ff1-8583-6a25f4fffe13/)
