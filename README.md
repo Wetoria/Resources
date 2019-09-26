@@ -185,6 +185,8 @@
 
 - [x] [【前端词典】这些功能其实不需要 JS，CSS 就能搞定 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/56f0933f-5d33-483c-a00b-bcb8ef57847d/)
 
+- [x] [css-layout-hack.js](https://app.yinxiang.com/shard/s59/nl/11394703/1a8c7587-49fe-4810-a23c-1e096ec8185a/)
+
 ### JavaScript
 - [x] [JS获取div高度的方法](https://app.yinxiang.com/shard/s59/nl/11394703/454aff2e-91c5-4b8e-9271-cf14ceacb58e/)
 
@@ -239,6 +241,10 @@
 - [x] [灵活使用 console 让 js 调试更简单 - 终身学习者 - SegmentFault 思否](https://app.yinxiang.com/shard/s59/nl/11394703/b94dab57-78e5-4873-93b2-bbc835c583c2/)
 
 - [x] [使用chrome开发者工具中的performance面板解决性能瓶颈 - 小火柴的蓝色理想 - 博客园](https://app.yinxiang.com/shard/s59/nl/11394703/afc7becb-d09d-4c35-9a98-c91b58cb1611/)
+
+- [x] [很好用的 UI 调试技巧 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/36f23aac-c925-409b-bc95-a2a86068f34f/)
+
+- [x] [怎样让后台小哥哥快速对接你的前端页面 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/dbb9e41e-827e-4c8c-949d-22ee3ceb000a/)
 
 
 ## 编辑器
@@ -325,6 +331,8 @@
 
 - [x] [git 子模块的使用姿势](https://app.yinxiang.com/shard/s59/nl/11394703/18eeadb2-af8a-4b90-b5af-488da3804a21/)
 
+- [x] [Git 中 HEAD 游离的原因与解决方法 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/6a23079c-3eca-46d3-adc0-e68e29fb71bf/)
+
 ## 网络
 - [x] [浅析 URL - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/3ff928b3-516a-46d8-a316-0baed9d6663a/)
 
@@ -333,6 +341,12 @@
 
 ## 正则表达式
 - [x] [正则表达式中i,g,ig,gi,m的区别和含义](https://app.yinxiang.com/shard/s59/nl/11394703/45674d9e-ea4d-4ba2-a2f0-08b8025eb430/)
+
+- [x] [练完这篇就会写正则 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/10737f38-d19a-4e21-bcb7-9a6245b7fc3d/)
+
+- [x] [常用JS正则大全(2019年9月16日更新) - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/85bb66ed-901a-4ea1-9e4d-34b1ba1884d2/)
+
+- [x] [正则大全](https://app.yinxiang.com/shard/s59/nl/11394703/56635ff3-69bb-455e-93be-622e79454ac5/)
 
 ## 持续集成
 - [x] [持续集成是什么？ - 阮一峰的网络日志](https://app.yinxiang.com/shard/s59/nl/11394703/102dbbaa-a769-423d-a3f4-0703dd718e0e/)
@@ -439,3 +453,13 @@
 - [x] [网络协议的几个概念 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/75a426b9-a5ea-4fd8-9c2a-d2e3388f1c97/)
 
 - [x] [函数式编程](https://app.yinxiang.com/shard/s59/nl/11394703/7bf153c7-e294-4ff1-8583-6a25f4fffe13/)
+
+- [x] [「用技术解决问题」将你日常操作的时间复杂度从 O(n) 降到 1 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/b0bef454-2c73-42c8-aa54-3e84161f413d/)
+
+- [x] [🚀揭秘vue/react组件库中🤚5个"作者不造的轮子" - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/4b52d368-2217-4841-89ea-a778ce1445b1/)
+
+- [x] [做好以下四点，拒做 “ 空心 ” 程序员 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/6ad8cd3f-a836-4abc-940c-a2beb75fcf3e/)
+
+- [x] [浏览器和Node中的JavaScript是如何工作的? 可视化解释 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/324dc0a8-2cd8-4aa4-bbe0-8e0cd2021a56/)
+
+- [x] [【译】Google 官方文章——如何去做code review - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/a67136d4-484e-4229-8d8b-982b7c9f7468/)

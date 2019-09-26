@@ -61,3 +61,19 @@
 - [如何清除团队中的“害群之马”？（下篇） · Issue #58 · chencl1986/Blog](https://app.yinxiang.com/shard/s59/nl/11394703/1ca30731-2ba7-419a-aaea-764fdf8d1f02/)
 
 - [阿里为什么良将如潮？](https://app.yinxiang.com/shard/s59/nl/11394703/e2804792-fed2-49fc-b76d-e376a71a4120/)
+
+- [赶重要会议，可不可以带客户坐地铁#？](https://app.yinxiang.com/shard/s59/nl/11394703/72b48bf5-8b26-475c-b4c6-a2f91b6e959d/)
+
+- [首先使用好身边的资源](https://app.yinxiang.com/shard/s59/nl/11394703/c9f9050c-0de2-45d3-9064-01a45bb25ed2/)
+
+- [郑爽的“双面人格”揭露扎心真相：不幸的人，用一生治愈童年 - 精读君 - 简书](https://app.yinxiang.com/shard/s59/nl/11394703/45028742-8a23-458a-8c75-8bf0ab442203/)
+
+- [心理学家荣格：这些解决不了的问题，我在潜意识里找到了答案](https://app.yinxiang.com/shard/s59/nl/11394703/ccdba7fd-0336-4df8-bf3b-4e16b0d7e347/)
+
+- [脸书38岁浙大学霸跳楼，让我看到中年男人的三幅面孔](https://app.yinxiang.com/shard/s59/nl/11394703/dc1dc18c-5d5e-435b-b4de-f68a38791413/)
+
+- [微小而切实的幸福](https://app.yinxiang.com/shard/s59/nl/11394703/d0dfb352-4ab3-4e2a-aef1-f9b6d897d987/)
+
+- [“25岁的欧洲梦，65岁再去，就没意思了”](https://app.yinxiang.com/shard/s59/nl/11394703/8068f8e0-fd29-4c01-b5b9-c3884ee5a521/)
+
+- [永远记得把决定权交给领导](https://app.yinxiang.com/shard/s59/nl/11394703/0f3c2abe-2c82-488a-92d6-b28b2ea166cd/)
