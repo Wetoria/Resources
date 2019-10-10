@@ -52,6 +52,8 @@
 
 - [28个顶级的React UI组件库，请查收！](https://app.yinxiang.com/shard/s59/nl/11394703/17c87b2a-f9ed-4570-b14d-a1fab7fb24a2/)
 
+- [x] [Monorepo——大型前端项目的代码管理方式 - Haohong 的前端专栏 - SegmentFault 思否](https://app.yinxiang.com/shard/s59/nl/11394703/0ff7c7b3-9554-4e6c-84fd-354a27fe8a0b/)
+
 ### 前端
 - [x] [从 0 到 1 再到 100, 搭建、编写、构建一个前端项目 - 深予之 - SegmentFault 思否](https://app.yinxiang.com/shard/s59/nl/11394703/1808896d-201d-4091-b29e-bc8ab0e0eb29/)
 
@@ -107,6 +109,8 @@
 - [x] [从一次性能优化看Vue的一个“feature” - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/87c902e6-9fde-480a-9a9b-a493135faefd/)
 
 - [x] [vue全家桶开发的一些小技巧和注意事项 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/fabfca4f-3b13-4f4f-b408-d0a3a98f1ba7/)
+
+- [x] [Vue3 中的数据侦测 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/d4f787e8-c3ec-4bae-bbad-b0f39a3809db/)
 
 ### 性能优化
 - [x] [vue性能优化小结 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/899560fc-aecc-4beb-9f2a-f3cbf6af12af/)  
@@ -196,6 +200,8 @@
 
 - [x] [关于带有"显示更多"按钮的多行文本截断思考😲 - 掘金](关于带有"显示更多"按钮的多行文本截断思考😲 - 掘金)
 
+- [x] [您或许需要扩充可点击区域的范围⛅ - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/d0495872-c04b-4d96-b645-fb5038cc2c04/)
+
 ### JavaScript
 - [x] [JS获取div高度的方法](https://app.yinxiang.com/shard/s59/nl/11394703/454aff2e-91c5-4b8e-9271-cf14ceacb58e/)
 
@@ -221,10 +227,18 @@
 
 - [x] [js es6 promise 中 resolve 如何传递多个参数? - T_one的回答 - SegmentFault 思否](https://app.yinxiang.com/shard/s59/nl/11394703/77b1cd65-f845-4e26-b092-ec4a6bb91431/)
 
+- [x] [你真的完全掌握了promise么？ - 掘金](你真的完全掌握了promise么？ - 掘金)
+
 ## 如何编写高质量的代码
 - [ ] [前端进阶（3） - 怎样提升代码质量 - 深予之 - SegmentFault 思否](https://app.yinxiang.com/shard/s59/nl/11394703/2734acad-d387-4ddd-8ed5-c8bed97d794e/)
 
 - [前端开发变量命名系列 - JavaScript篇 - wujie520303 - SegmentFault 思否](https://app.yinxiang.com/shard/s59/nl/11394703/751de6b6-59a9-466f-8c4f-4854a517bc28/)
+
+- [x] [如何编写高质量的 JS 函数（1） -- 敲山震虎篇 - vivo互联网技术 - OSCHINA](https://app.yinxiang.com/shard/s59/nl/11394703/59db8173-50a8-48ea-8774-f34e59452131/)
+
+- [x] [如何编写高质量的 JS 函数（2） -- 命名/注释/鲁棒篇 - vivo互联网技术 - OSCHINA](https://app.yinxiang.com/shard/s59/nl/11394703/a1729bfb-9f63-4316-99df-6453d509027a/)
+
+- [x] [如何编写高质量的 JS 函数（3） --函数式编程[理论篇] - vivo 互联网技术 - SegmentFault 思否](如何编写高质量的 JS 函数（3） --函数式编程[理论篇] - vivo 互联网技术 - SegmentFault 思否)
 
 ### JS
 - [x] [两个代码优化的例子 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/0d6191c9-4d4a-432c-b2d8-28ba80500d31/)  
@@ -327,6 +341,8 @@
 
 - [x] [markdown折叠内容语法](https://app.yinxiang.com/shard/s59/nl/11394703/81b50db0-0946-47e8-8212-6ef486b584d0/)
 
+- [我背着女朋友，用 Python 偷偷抓取了她的行踪](https://app.yinxiang.com/shard/s59/nl/11394703/8b490cbd-a9a2-4514-bdcb-3c958bfe3f68/)
+
 ## Mock
 - [ ] [纯手工打造前端后端分离项目中的mock-server](https://yanm1ng.github.io/2017/06/12/%E7%BA%AF%E6%89%8B%E5%B7%A5%E6%89%93%E9%80%A0%E5%89%8D%E7%AB%AF%E5%90%8E%E7%AB%AF%E5%88%86%E7%A6%BB%E9%A1%B9%E7%9B%AE%E4%B8%AD%E7%9A%84mock-server/)
 
@@ -343,6 +359,10 @@
 - [x] [git 子模块的使用姿势](https://app.yinxiang.com/shard/s59/nl/11394703/18eeadb2-af8a-4b90-b5af-488da3804a21/)
 
 - [x] [Git 中 HEAD 游离的原因与解决方法 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/6a23079c-3eca-46d3-adc0-e68e29fb71bf/)
+
+### GitHub
+
+- [x] [GitHub 上能挖矿的神仙技巧 - 如何发现优秀开源项目 · Issue #45 · biaochenxuying/blog](https://app.yinxiang.com/shard/s59/nl/11394703/d08e2c57-643f-4109-bb94-cce74aa930d1/)
 
 ## 网络
 - [x] [浅析 URL - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/3ff928b3-516a-46d8-a316-0baed9d6663a/)
@@ -482,3 +502,7 @@
 - [ ] [10分钟彻底搞懂前端页面性能监控 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/1549b667-c2e0-4428-88dd-96a8dbcb2e84/)
 
 - [x] [面试分享：两年工作经验成功面试阿里P6总结 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/a81d626f-d5c1-411a-91ba-66ee2a192c5b/)
+
+- [x] [前端 101：给不了解前端的同学讲前端 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/154d5fb8-4007-442a-989b-c5ffc92f3eee/)
+
+- [x] [给2019前端的5个建议 · Issue #11 · camsong/blog](https://app.yinxiang.com/shard/s59/nl/11394703/9c6777be-f3d9-44f8-9240-7b2dccf39580/)
