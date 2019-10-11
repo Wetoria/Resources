@@ -109,3 +109,7 @@
 - [天安门上痛哭的香港富豪霍英东](https://app.yinxiang.com/shard/s59/nl/11394703/2b2bf076-d092-42cf-af85-3fc9e1f323db/)
 
 - [张莹颖会不会是时空穿梭者？_阿里山云战略_新浪博客](https://app.yinxiang.com/shard/s59/nl/11394703/ddb65027-b781-4ac3-ae6a-44a0efa7d6f4/)
+
+- [你想跳跃悬崖，就不要凝视深渊太久](https://app.yinxiang.com/shard/s59/nl/11394703/cf7d2cda-ca70-4637-bc08-4b687819ea4e/)
+
+- [成人世界潜规则：能赚钱的时候，别卖惨](https://app.yinxiang.com/shard/s59/nl/11394703/5c1566e7-71ca-4c61-902e-edb7b3bd65ea/)
