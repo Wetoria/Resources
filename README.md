@@ -506,3 +506,11 @@
 - [x] [前端 101：给不了解前端的同学讲前端 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/154d5fb8-4007-442a-989b-c5ffc92f3eee/)
 
 - [x] [给2019前端的5个建议 · Issue #11 · camsong/blog](https://app.yinxiang.com/shard/s59/nl/11394703/9c6777be-f3d9-44f8-9240-7b2dccf39580/)
+
+- [ ] [What every computer science major should know](https://app.yinxiang.com/shard/s59/nl/11394703/405c80a1-964d-489a-9868-dd5a23384d65/)
+
+- [ ] [kamranahmedse/developer-roadmap](https://app.yinxiang.com/shard/s59/nl/11394703/b2fef036-6f68-495b-a780-4d7252ec23d0/)
+
+- [ ] [Typescript版图解Functor , Applicative 和 Monad - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/9845e1a0-f51e-4978-b75a-924f8d9153d4/)
+
+- [x] [堆栈向上增长和向下增长的深入理解 - 时光漫走 - CSDN博客](https://app.yinxiang.com/shard/s59/nl/11394703/fd65bbb8-044e-44ab-8718-d2f4fa499058/)
