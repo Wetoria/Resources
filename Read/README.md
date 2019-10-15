@@ -117,3 +117,13 @@
 - [比玩手机上瘾更可怕的，是我们在不知不觉中变傻](https://app.yinxiang.com/shard/s59/nl/11394703/b749e1e8-272f-4b8b-8f7f-4eebf31b6eba/)
 
 - [“微信秒回你的人，才是真的爱你？”](https://app.yinxiang.com/shard/s59/nl/11394703/46c3efe4-2d80-431d-acaa-a65e45c65951/)
+
+- [结婚后，老公要求我每月赚8000块钱](https://app.yinxiang.com/shard/s59/nl/11394703/4338eac1-bfe3-42b2-a97c-ef7d7e727785/)
+
+- [洞察人心的人，都是怎样聊天说话的？](https://app.yinxiang.com/shard/s59/nl/11394703/ba31e4d9-cffe-409a-a5b7-6cf2d9f16dba/)
+
+- [咱们千万不要当有钱的废人](http://mp.weixin.qq.com/s?__biz=MzA3NjU2MDUzMA==&mid=2673030759&idx=1&sn=181a7a73b1857528e4e1c13559972c47&chksm=85f8f79ab28f7e8cb2c778e16cab01374950153a45d28c0b9131618e6bb07a29c0d7b66444dd&mpshare=1&scene=1&srcid=&sharer_sharetime=1571145469956&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
+
+- [祝你好运，不管你身在何方](http://mp.weixin.qq.com/s?__biz=MjM5MTAwODQwMA==&mid=2649995912&idx=1&sn=07bc7310c4241dc9d3a99efaceb4a814&chksm=bebb097789cc8061fb714d250dfc30f6f5af70ecfc0a3b00c4b4ae26eb38d9ea0d5f740832d5&mpshare=1&scene=1&srcid=&sharer_sharetime=1571145672085&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
+
+- [永远不要享用承担不起的东西](http://mp.weixin.qq.com/s?__biz=MzI1MzcyOTUxNA==&mid=2247497453&idx=3&sn=0a2dbb773a52ba825c3907b42d89eef9&chksm=e9d2b968dea5307ee2eea9a8b966ca75a3c39403c4f13a9e413f09cda58aee7367a99d16be2c&mpshare=1&scene=1&srcid=&sharer_sharetime=1571145813322&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)

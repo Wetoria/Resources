@@ -6,6 +6,8 @@
 
 - [前端进阶必备，github 优质资源整理分享！ - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/209bf464-bbd4-4ef3-b19b-456821cf7d90/)
 
+- [JavaScript 工具函数大全（新） - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/42452bd6-59fd-4a7e-8629-56f809b6e220/)
+
 ## node & npm
 - [ ] [前端工程化（5）：你所需要的npm知识储备都在这了](https://app.yinxiang.com/shard/s59/nl/11394703/b9f2e0f3-31d8-408f-8176-f465cab4f532/)  
 
@@ -111,6 +113,8 @@
 - [x] [vue全家桶开发的一些小技巧和注意事项 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/fabfca4f-3b13-4f4f-b408-d0a3a98f1ba7/)
 
 - [x] [Vue3 中的数据侦测 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/d4f787e8-c3ec-4bae-bbad-b0f39a3809db/)
+
+- [x] [Vue 开发必须知道的 36 个技巧【近1W字】 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/4eac18fa-1b83-4efb-84fa-53d5386b5a87/)
 
 ### 性能优化
 - [x] [vue性能优化小结 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/899560fc-aecc-4beb-9f2a-f3cbf6af12af/)  
@@ -316,9 +320,13 @@
 
 - [x] [超越 Cookie：当今的客户端数据存储技术 - 疯狂的技术宅 - SegmentFault 思否](https://app.yinxiang.com/shard/s59/nl/11394703/06cb6cb5-ab57-4027-bb72-7f77e7b5e66a/)
 
+
 ### 跨域
 - [x] [不要再问我跨域的问题了 - 个人文章 - SegmentFault 思否](https://app.yinxiang.com/shard/s59/nl/11394703/67c09ca7-7954-4ee8-b623-df25727c3dc9/)
 
+- [浏览器同源政策及其规避方法 - 阮一峰的网络日志](https://app.yinxiang.com/shard/s59/nl/11394703/4ae7a2b7-ab5b-4b46-bb79-43b63a8aec57/)
+
+- [跨域资源共享 CORS 详解 - 阮一峰的网络日志](https://app.yinxiang.com/shard/s59/nl/11394703/4364b738-9235-4529-bbdf-91e59220baad/)
 
 ### 缓存
 - [ ] [你应该知道的浏览器缓存知识 - 韩小平的博客](https://app.yinxiang.com/shard/s59/nl/11394703/a6654feb-7587-435b-97e3-96096177ae9f/)
@@ -364,6 +372,7 @@
 
 - [x] [GitHub 上能挖矿的神仙技巧 - 如何发现优秀开源项目 · Issue #45 · biaochenxuying/blog](https://app.yinxiang.com/shard/s59/nl/11394703/d08e2c57-643f-4109-bb94-cce74aa930d1/)
 
+
 ## 网络
 - [x] [浅析 URL - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/3ff928b3-516a-46d8-a316-0baed9d6663a/)
 
@@ -406,6 +415,11 @@
 
 ## Clean Architecture
 - [x] [前端架构-让重构不那么痛苦（译） - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/43407352-1ca3-4c4c-8846-4b55464f1aa1/)
+
+## Hexo
+- [x] [怎么用hexo上传一个README.md到github?（Ubuntu） - 知乎](https://app.yinxiang.com/shard/s59/nl/11394703/f890922e-c7b4-4d2b-8d37-d07f980a79d1/)
+
+- [x] [hexo设置跳过渲染某个文件或文件夹(20180522亲测通过)-四个空格](https://app.yinxiang.com/shard/s59/nl/11394703/43bdc45f-04cc-45eb-afd6-102e7516645c/)
 
 ## AppleScript
 [AppleScript](./AppleScript)
@@ -514,3 +528,7 @@
 - [ ] [Typescript版图解Functor , Applicative 和 Monad - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/9845e1a0-f51e-4978-b75a-924f8d9153d4/)
 
 - [x] [堆栈向上增长和向下增长的深入理解 - 时光漫走 - CSDN博客](https://app.yinxiang.com/shard/s59/nl/11394703/fd65bbb8-044e-44ab-8718-d2f4fa499058/)
+
+- [x] [理解RESTful架构 - 阮一峰的网络日志](https://app.yinxiang.com/shard/s59/nl/11394703/9b0f8818-ea07-42a4-8d61-780f7dcf6a19/)
+
+- [x] [UI组件库从1到N开发心得-单元测试篇 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/2daa64c9-1cca-46c8-a498-17c0ec6e3a79/)
