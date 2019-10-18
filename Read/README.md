@@ -127,3 +127,5 @@
 - [祝你好运，不管你身在何方](http://mp.weixin.qq.com/s?__biz=MjM5MTAwODQwMA==&mid=2649995912&idx=1&sn=07bc7310c4241dc9d3a99efaceb4a814&chksm=bebb097789cc8061fb714d250dfc30f6f5af70ecfc0a3b00c4b4ae26eb38d9ea0d5f740832d5&mpshare=1&scene=1&srcid=&sharer_sharetime=1571145672085&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
 
 - [永远不要享用承担不起的东西](http://mp.weixin.qq.com/s?__biz=MzI1MzcyOTUxNA==&mid=2247497453&idx=3&sn=0a2dbb773a52ba825c3907b42d89eef9&chksm=e9d2b968dea5307ee2eea9a8b966ca75a3c39403c4f13a9e413f09cda58aee7367a99d16be2c&mpshare=1&scene=1&srcid=&sharer_sharetime=1571145813322&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
+
+- [找到并设计好你的人生方向：让你知道自己未来想做什么](https://mp.weixin.qq.com/s?__biz=MjM5NjA3OTM0MA==&mid=2655712672&idx=1&sn=5fabb6e34b8b51117515be15260550e0&chksm=bd50e6238a276f3536f6839b997dc10da8900f2d7a44e66284fbb642b2f469a726b23b0a2b94&mpshare=1&scene=21&srcid=0530xks2EuXZM3lEfZnl2zIr#wechat_redirect)
