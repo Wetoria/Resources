@@ -246,6 +246,8 @@
 
 - [x] [你真的完全掌握了promise么？ - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/c28eab06-e641-4c62-923d-8302efec500a/)
 
+- [x] [JS中一切都是对象吗？看这一篇就知道了 - 掘金](https://juejin.im/post/5cd3e5daf265da03612f0271)
+
 ## 如何编写高质量的代码
 - [ ] [前端进阶（3） - 怎样提升代码质量 - 深予之 - SegmentFault 思否](https://app.yinxiang.com/shard/s59/nl/11394703/2734acad-d387-4ddd-8ed5-c8bed97d794e/)
 
