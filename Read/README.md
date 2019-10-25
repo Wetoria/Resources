@@ -139,3 +139,7 @@
 - [有黄晓明这样的员工，真的太南了](http://mp.weixin.qq.com/s?__biz=MzA3NjU2MDUzMA==&mid=2673030835&idx=1&sn=58bf83937a15a6fa1c60c48dc3793d0a&chksm=85f8f74eb28f7e58f3ea561759f0c762ebc0e6ee55f0a4e025e25d65273dc555975e415c76e6&mpshare=1&scene=1&srcid=&sharer_sharetime=1571892668412&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
 
 - [为什么中国武术干不过格斗拳击](http://mp.weixin.qq.com/s?__biz=MzI1MzcyOTUxNA==&mid=2247497780&idx=3&sn=af153211e26b0a697b71940eee84c113&chksm=e9d2b7b1dea53ea7fd80e7fab6af4c726f44773cd7e212ea24692cca934446d4ce636649a3ca&mpshare=1&scene=1&srcid=&sharer_sharetime=1571892960272&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
+
+- [有事就联系，没事各忙各的](http://mp.weixin.qq.com/s?__biz=MzI1MzcyOTUxNA==&mid=2247497780&idx=2&sn=269dc798d118435f136cf6ebd69dec28&chksm=e9d2b7b1dea53ea750a21b1620e6d5e00b2b3564d3eb59fa979a4e50bb2b9a46a61dfc84657f&mpshare=1&scene=1&srcid=&sharer_sharetime=1572000035071&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
+
+- [湖畔大学梁宁：成就高的那批人，全都有同一种天分](http://mp.weixin.qq.com/s?__biz=MzI1MzcyOTUxNA==&mid=2247497749&idx=1&sn=891596137037f622322e065512cfe54d&chksm=e9d2b790dea53e86c8b08fec89c8536f8feb1bbf984674142285a8e37b0991b0b120f485e5dd&mpshare=1&scene=1&srcid=1023Twt9TMwIYM87nxMdXJCA&sharer_sharetime=1572000676344&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
