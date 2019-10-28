@@ -563,3 +563,9 @@
 - [ ] [面试官，不要再问我三次握手和四次挥手 - JVM从小白学成大佬 - SegmentFault 思否](https://segmentfault.com/a/1190000020610336?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly)
 
 - [-] [Axios 源码分析之拦截器和请求取消 - 前端 - 掘金](https://juejin.im/entry/59a3794751882524382f65ac)
+
+- [x] [常用配置文件格式](https://colobu.com/2017/08/31/configuration-file-format/)
+
+- [x] [深入对比TOML，JSON和YAML - sunsky303 - 博客园](https://www.cnblogs.com/sunsky303/p/9208848.html)
+
+- [x] [要进大厂？前端灰度发布必须要知道 - 掘金](https://juejin.im/post/5da88d795188252f051e2b47)

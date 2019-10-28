@@ -143,3 +143,7 @@
 - [有事就联系，没事各忙各的](http://mp.weixin.qq.com/s?__biz=MzI1MzcyOTUxNA==&mid=2247497780&idx=2&sn=269dc798d118435f136cf6ebd69dec28&chksm=e9d2b7b1dea53ea750a21b1620e6d5e00b2b3564d3eb59fa979a4e50bb2b9a46a61dfc84657f&mpshare=1&scene=1&srcid=&sharer_sharetime=1572000035071&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
 
 - [湖畔大学梁宁：成就高的那批人，全都有同一种天分](http://mp.weixin.qq.com/s?__biz=MzI1MzcyOTUxNA==&mid=2247497749&idx=1&sn=891596137037f622322e065512cfe54d&chksm=e9d2b790dea53e86c8b08fec89c8536f8feb1bbf984674142285a8e37b0991b0b120f485e5dd&mpshare=1&scene=1&srcid=1023Twt9TMwIYM87nxMdXJCA&sharer_sharetime=1572000676344&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
+
+- [任正非认罚100万：毁掉一个人，天天夸他就够了](http://mp.weixin.qq.com/s?__biz=MjM5MDgxNjc0MA==&mid=2651018200&idx=1&sn=3f3a8c7d309ffa7e642dea17b0d43f50&chksm=bd48f3538a3f7a4565f30daa39556f1b8c93c0c8f8388b1a85f38822451f919618e0c6b2e956&mpshare=1&scene=1&srcid=&sharer_sharetime=1572257424532&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
+
+- [为什么你发现的机会，往往都是坑？](http://mp.weixin.qq.com/s?__biz=MzI1MzcyOTUxNA==&mid=2247497934&idx=3&sn=16f16ac299425a9d373cd4c441c83d56&chksm=e9d2b74bdea53e5db180a87651db3f74861665e7594a199941c5da8696d13012ceb06615397d&mpshare=1&scene=1&srcid=&sharer_sharetime=1572258563783&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
