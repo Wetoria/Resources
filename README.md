@@ -10,6 +10,25 @@
 
 - [JavaScript 工具函数大全（新） - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/42452bd6-59fd-4a7e-8629-56f809b6e220/)
 
+- ## 知识点
+- [x] [面试时面试官想要听到什么答案（关于一些vue的问题） - 掘金](https://juejin.im/post/5dac07675188253d706643f4)
+
+- [ ] [web前端面试总结(自认为还算全面哈哈哈哈哈！！！） - 掘金](https://juejin.im/post/5dafb263f265da5b9b80244d)
+
+- [ ] [面试官：请实现三栏布局，尽可能多的方式。 - 掘金](https://juejin.im/post/5daebfc2518825502a44602a)
+
+- [ ] [跨域的正确打开方式 - 掘金](https://juejin.im/post/5dafb04cf265da5b707eabc8)
+
+- [ ] [【 学 ES6 ？】 先看看这篇文章，还清ES5的帐吧！ - 掘金](https://juejin.im/post/5d8acce86fb9a04dfa0956d0)
+
+- [ ] [1.5万字概括ES6全部特性(看图就能记下，值得收藏) - 掘金](https://juejin.im/post/5d9bf530518825427b27639d)
+
+- [ ] [一分钟说完JSONP请求，面试满分答案ヾ(≧▽≦*)o - 掘金](https://juejin.im/post/5db017c76fb9a0208c5e6242)
+
+- [ ] [(建议收藏)原生JS灵魂之问, 请问你能接得住几个？(上) - 掘金](https://juejin.im/post/5dac5d82e51d45249850cd20)
+
+- [ ] [JS 原生面经从初级到高级【近1.5W字】 - 掘金](https://juejin.im/post/5daeefc8e51d4524f007fb15)
+
 ## node & npm
 - [ ] [前端工程化（5）：你所需要的npm知识储备都在这了](https://app.yinxiang.com/shard/s59/nl/11394703/b9f2e0f3-31d8-408f-8176-f465cab4f532/)  
 
@@ -61,6 +80,10 @@
 - [x] [前端代码质量-圈复杂度原理和实践 - 掘金](https://juejin.im/post/5da34216e51d4578502c24c5#heading-10)
 
 - [x] [谈谈前端组件化 - 掘金](https://juejin.im/post/5da7de4cf265da5b7f1ca749)
+
+- [x] [前端框架用vue还是react？清晰对比两者差异 - 掘金](https://juejin.im/post/5dad09be518825393e52d1bd)
+
+- [x] [5 分钟撸一个前端性能监控工具 - 掘金](https://juejin.im/post/5b7a50c0e51d4538af60d995)
 
 ### 前端
 - [x] [从 0 到 1 再到 100, 搭建、编写、构建一个前端项目 - 深予之 - SegmentFault 思否](https://app.yinxiang.com/shard/s59/nl/11394703/1808896d-201d-4091-b29e-bc8ab0e0eb29/)
@@ -197,12 +220,16 @@
 
 - [x] [Using FS in CRA + Electron · Issue #6782 · facebook/create-react-app](https://app.yinxiang.com/shard/s59/nl/11394703/ccfe7c19-83d1-4c7d-ac67-118ba1480144/)
 
+- [x] [Electron App 在 MacOS 下 申请摄像头及麦克风权限踩坑指南 - 掘金](https://juejin.im/post/5dafbed5f265da5baf411941)
+
 
 ## HTML & CSS & JavaScript
 ### HTML
 - [x] [contentEditable的Change判断 | 临水照影的博客](https://app.yinxiang.com/shard/s59/nl/11394703/2c6ae227-afbc-41fc-aee0-c81a6c20f9f6/)
 
 - [x] [javascript – 在contentEditable中禁止行/段落 - 代码日志](https://app.yinxiang.com/shard/s59/nl/11394703/19dd3f3e-6d9e-4567-8d34-c992b18f1bd1/)
+
+- [x] [自定义H5 video 播放器 - 掘金](https://juejin.im/post/5daef8b6e51d4524e60e0f6a)
 
 ### CSS
 - [x] [小tip:CSS vw让overflow:auto页面滚动条出现时不跳动 « 张鑫旭-鑫空间-鑫生活](https://app.yinxiang.com/shard/s59/nl/11394703/dc6ecb00-b4bd-4bea-a53e-b3c2cb27656e/)  
@@ -569,3 +596,5 @@
 - [x] [深入对比TOML，JSON和YAML - sunsky303 - 博客园](https://www.cnblogs.com/sunsky303/p/9208848.html)
 
 - [x] [要进大厂？前端灰度发布必须要知道 - 掘金](https://juejin.im/post/5da88d795188252f051e2b47)
+
+- [x] [我不想成为不懂 GUI 的 UI 开发者 - 掘金](https://juejin.im/post/5db63790e51d4529fc3fa36a)
