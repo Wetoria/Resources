@@ -279,7 +279,7 @@
 
 - [x] [JS中一切都是对象吗？看这一篇就知道了 - 掘金](https://juejin.im/post/5cd3e5daf265da03612f0271)
 
-- [x] [使用js实现局部打印页面 - zoro的博客 - CSDN博客](使用js实现局部打印页面 - zoro的博客 - CSDN博客)
+- [x] [使用js实现局部打印页面 - zoro的博客 - CSDN博客](https://blog.csdn.net/suolong914/article/details/80038700)
 
 - [x] [JS实现页面打印](https://www.jianshu.com/p/40dfd2d6c344)
 
