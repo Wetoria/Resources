@@ -87,6 +87,8 @@
 
 - [x] [5 分钟撸一个前端性能监控工具 - 掘金](https://juejin.im/post/5b7a50c0e51d4538af60d995)
 
+- [ ] [[手把手系列之] Jenkins+Docker自动化部署vue项目 - 掘金](https://juejin.im/post/5db9474bf265da4d1206777e#heading-20)
+
 ### 前端
 - [x] [从 0 到 1 再到 100, 搭建、编写、构建一个前端项目 - 深予之 - SegmentFault 思否](https://app.yinxiang.com/shard/s59/nl/11394703/1808896d-201d-4091-b29e-bc8ab0e0eb29/)
 
@@ -285,6 +287,8 @@
 
 - [x] [Window.print()打印整个网站中的部分内容，打印后，原网页保持不变 - 北堂棣的随记 - SegmentFault 思否](https://segmentfault.com/a/1190000006236133)
 
+- [x] [使用JavaScript打印页面的技巧和要点](https://www.textarea.com/exdestroyer/shiyong-javascript-dayin-yemian-di-jiqiao-he-yaodian-153/)
+
 ## 如何编写高质量的代码
 - [ ] [前端进阶（3） - 怎样提升代码质量 - 深予之 - SegmentFault 思否](https://app.yinxiang.com/shard/s59/nl/11394703/2734acad-d387-4ddd-8ed5-c8bed97d794e/)
 
@@ -372,6 +376,8 @@
 
 - [x] [超越 Cookie：当今的客户端数据存储技术 - 疯狂的技术宅 - SegmentFault 思否](https://app.yinxiang.com/shard/s59/nl/11394703/06cb6cb5-ab57-4027-bb72-7f77e7b5e66a/)
 
+- [x] [《前端实战总结》如何在不刷新页面的情况下改变URL - 掘金](https://juejin.im/post/5db9ac9cf265da4d4a3061a2)
+
 
 ### 跨域
 - [x] [不要再问我跨域的问题了 - 个人文章 - SegmentFault 思否](https://app.yinxiang.com/shard/s59/nl/11394703/67c09ca7-7954-4ee8-b623-df25727c3dc9/)
@@ -425,6 +431,8 @@
 - [x] [Git 中 HEAD 游离的原因与解决方法 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/6a23079c-3eca-46d3-adc0-e68e29fb71bf/)
 
 - [ ] [你知道 Git 是如何做版本控制的吗？ - 掘金](https://juejin.im/post/5d525926e51d453b1f37eaec)
+
+- [x] [通过 41 个 问答方式快速了解学习 Git - 掘金](https://juejin.im/post/5dba2249f265da4cef190484)
 
 ### GitHub
 
@@ -608,3 +616,7 @@
 - [x] [要进大厂？前端灰度发布必须要知道 - 掘金](https://juejin.im/post/5da88d795188252f051e2b47)
 
 - [x] [我不想成为不懂 GUI 的 UI 开发者 - 掘金](https://juejin.im/post/5db63790e51d4529fc3fa36a)
+
+- [x] [[技术翻译]9个可以让你在2020年成为前端专家的项目 - 掘金](https://juejin.im/post/5db71290f265da4d1c6999a0)
+
+- [x] [运营商劫持狠起来，连json都改 - 掘金](https://juejin.im/post/5dba3e7ee51d4529fc3fa901)

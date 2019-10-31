@@ -187,3 +187,5 @@
 - [遇到卑鄙的同事，怎么办？](http://mp.weixin.qq.com/s?__biz=MzI1MzcyOTUxNA==&mid=2247497818&idx=3&sn=1ef1a2f91ba85f73fdb442c91c49339b&chksm=e9d2b7dfdea53ec901ccaeb6ef2268918f438bf1d1635bcd5aa156eb25a2dc55c77fb5837a9f&mpshare=1&scene=1&srcid=&sharer_sharetime=1572435301436&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
 
 - [在中国，反抗应试教育的人，是真蠢](http://mp.weixin.qq.com/s?__biz=MzI1MzcyOTUxNA==&mid=2247497818&idx=1&sn=d8900ac76c4684d200b5e17390fa5d78&chksm=e9d2b7dfdea53ec991d130206d6abac33ee9744a3930c58675e3425c5495936040fc7ca5a954&mpshare=1&scene=1&srcid=&sharer_sharetime=1572436153607&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
+
+- [为什么滑雪教练可以教出网球高手](https://mp.weixin.qq.com/s/TPvlS6NgTV6z37-baUy6Aw)
