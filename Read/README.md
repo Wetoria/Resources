@@ -189,3 +189,9 @@
 - [在中国，反抗应试教育的人，是真蠢](http://mp.weixin.qq.com/s?__biz=MzI1MzcyOTUxNA==&mid=2247497818&idx=1&sn=d8900ac76c4684d200b5e17390fa5d78&chksm=e9d2b7dfdea53ec991d130206d6abac33ee9744a3930c58675e3425c5495936040fc7ca5a954&mpshare=1&scene=1&srcid=&sharer_sharetime=1572436153607&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
 
 - [为什么滑雪教练可以教出网球高手](https://mp.weixin.qq.com/s/TPvlS6NgTV6z37-baUy6Aw)
+
+- [成年人最高级的炫富：准点下班、周末双休](http://mp.weixin.qq.com/s?__biz=MzA3NjU2MDUzMA==&mid=2673031004&idx=2&sn=d7a5d5170eec59e519a4d4d656fbf625&chksm=85f8f6a1b28f7fb7d112e72d03ef5957ce038fbfdec61736e40328e6a9ff541b8558a86b72b1&mpshare=1&scene=1&srcid=&sharer_sharetime=1572582428402&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
+
+- [60后的妈妈对80后的我说：你比我幸运，生在一个好时代](http://mp.weixin.qq.com/s?__biz=MzAwNTMxOTAzOQ==&mid=2650289841&idx=1&sn=e7d4f6bb67129085fbe6635ee45b26b6&chksm=8312e6a1b4656fb764da3af6239adb80f8726b7dc8c6431257dbde4acd3519e91ae08083e1e0&mpshare=1&scene=1&srcid=&sharer_sharetime=1572582977337&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
+
+- [清华学霸作息表冲上热搜，1000万人被骗：高度自律后，我的生活彻底崩溃了](http://mp.weixin.qq.com/s?__biz=MzI1MzcyOTUxNA==&mid=2247497714&idx=1&sn=06be1390f9276e4c08eda04d34cc6bc5&chksm=e9d2b877dea531619fc6a40b22391a16721742d0bcd4aeab50b60a36e23813eb39de85536dc6&mpshare=1&scene=1&srcid=&sharer_sharetime=1572606814781&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
