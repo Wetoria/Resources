@@ -289,6 +289,8 @@
 
 - [x] [使用JavaScript打印页面的技巧和要点](https://www.textarea.com/exdestroyer/shiyong-javascript-dayin-yemian-di-jiqiao-he-yaodian-153/)
 
+- [x] [《前端实战》之变量提升，函数声明提升及变量作用域详解 - 掘金](https://juejin.im/post/5dbc49db6fb9a020512b3f8f)
+
 ## 如何编写高质量的代码
 - [ ] [前端进阶（3） - 怎样提升代码质量 - 深予之 - SegmentFault 思否](https://app.yinxiang.com/shard/s59/nl/11394703/2734acad-d387-4ddd-8ed5-c8bed97d794e/)
 
@@ -412,6 +414,8 @@
 - [我背着女朋友，用 Python 偷偷抓取了她的行踪](https://app.yinxiang.com/shard/s59/nl/11394703/8b490cbd-a9a2-4514-bdcb-3c958bfe3f68/)
 
 - [ ] [1小时搞定卡片拖拽、自动排列交换位置、拖拽数据存取 - 掘金](https://juejin.im/post/5da53e29e51d457822796ed8)
+
+- [十分钟学会 tmux - 猫哥_kaiye - 博客园](https://www.cnblogs.com/kaiye/p/6275207.html)
 
 ## Mock
 - [ ] [纯手工打造前端后端分离项目中的mock-server](https://yanm1ng.github.io/2017/06/12/%E7%BA%AF%E6%89%8B%E5%B7%A5%E6%89%93%E9%80%A0%E5%89%8D%E7%AB%AF%E5%90%8E%E7%AB%AF%E5%88%86%E7%A6%BB%E9%A1%B9%E7%9B%AE%E4%B8%AD%E7%9A%84mock-server/)

@@ -195,3 +195,7 @@
 - [60后的妈妈对80后的我说：你比我幸运，生在一个好时代](http://mp.weixin.qq.com/s?__biz=MzAwNTMxOTAzOQ==&mid=2650289841&idx=1&sn=e7d4f6bb67129085fbe6635ee45b26b6&chksm=8312e6a1b4656fb764da3af6239adb80f8726b7dc8c6431257dbde4acd3519e91ae08083e1e0&mpshare=1&scene=1&srcid=&sharer_sharetime=1572582977337&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
 
 - [清华学霸作息表冲上热搜，1000万人被骗：高度自律后，我的生活彻底崩溃了](http://mp.weixin.qq.com/s?__biz=MzI1MzcyOTUxNA==&mid=2247497714&idx=1&sn=06be1390f9276e4c08eda04d34cc6bc5&chksm=e9d2b877dea531619fc6a40b22391a16721742d0bcd4aeab50b60a36e23813eb39de85536dc6&mpshare=1&scene=1&srcid=&sharer_sharetime=1572606814781&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
+
+- [穷人在抢30块一斤的猪肉， 富人在抢3000万一套的房](http://mp.weixin.qq.com/s?__biz=MzA3NjU2MDUzMA==&mid=2673031021&idx=1&sn=f4337b425a9f49da6a931c460c761bb4&chksm=85f8f690b28f7f86daa1848564f2562570104eeb1c514586a23dc2e37e170da3def7d731f567&mpshare=1&scene=1&srcid=&sharer_sharetime=1572683886572&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
+
+- [为什么你可以不读大学 - 未来世界的幸存者 - 阮一峰的个人网站](http://www.ruanyifeng.com/survivor/collapse/university.html)
