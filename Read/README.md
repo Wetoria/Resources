@@ -199,3 +199,11 @@
 - [穷人在抢30块一斤的猪肉， 富人在抢3000万一套的房](http://mp.weixin.qq.com/s?__biz=MzA3NjU2MDUzMA==&mid=2673031021&idx=1&sn=f4337b425a9f49da6a931c460c761bb4&chksm=85f8f690b28f7f86daa1848564f2562570104eeb1c514586a23dc2e37e170da3def7d731f567&mpshare=1&scene=1&srcid=&sharer_sharetime=1572683886572&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
 
 - [为什么你可以不读大学 - 未来世界的幸存者 - 阮一峰的个人网站](http://www.ruanyifeng.com/survivor/collapse/university.html)
+
+- [凌晨3点，她的全裸视频刷爆了朋友圈：情绪稳定究竟有多重要](http://mp.weixin.qq.com/s?__biz=MzAwNTMxOTAzOQ==&mid=2650289910&idx=1&sn=21907e76fd17b863a2e8266d69d9d8ec&chksm=8312e6e6b4656ff0ba5898f7b1dacf0f123b9f3760efb516746712cda5528cabd16f25a79a93&mpshare=1&scene=1&srcid=&sharer_sharetime=1572746164275&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
+
+- [“凌晨2点的朋友圈，看见上司发了我睡浴缸的照片”](http://mp.weixin.qq.com/s?__biz=MjM5MDgxNjc0MA==&mid=2651018383&idx=1&sn=87621ec56de4e6dbf8e7875b2bab596c&chksm=bd48f4048a3f7d12048ce4273c5078045435f71fbc3a5cbf29364ac57daee7b662aa69ad4b57&mpshare=1&scene=1&srcid=&sharer_sharetime=1572747792477&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
+
+- [如何有效的开导别人？](http://mp.weixin.qq.com/s?__biz=MzI1MzcyOTUxNA==&mid=2247498096&idx=3&sn=cf2210f11eb22e6cb7ec19170f616336&chksm=e9d2b6f5dea53fe3e01d513f65be11adf8231df2a463a4efa29d7f77c1cc1715cf34bcc8ea51&mpshare=1&scene=1&srcid=&sharer_sharetime=1572747956818&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
+
+- [世上所有的牛逼，都是被逼出来的](http://mp.weixin.qq.com/s?__biz=MzI1MzcyOTUxNA==&mid=2247498096&idx=1&sn=108812a425f222771b628017287e85b0&chksm=e9d2b6f5dea53fe3d5e2e157ebc3ba791d10bb737904b3b85678823f9c3c76321842c3705d7b&mpshare=1&scene=1&srcid=&sharer_sharetime=1572748758408&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)

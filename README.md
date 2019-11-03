@@ -10,6 +10,8 @@
 
 - [JavaScript 工具函数大全（新） - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/42452bd6-59fd-4a7e-8629-56f809b6e220/)
 
+- [【译】2019年前端必备资源 - 掘金](https://juejin.im/post/5dbb9a8ce51d456e665a71ab)
+
 - ## 知识点
 - [x] [面试时面试官想要听到什么答案（关于一些vue的问题） - 掘金](https://juejin.im/post/5dac07675188253d706643f4)
 
@@ -121,6 +123,14 @@
 - [ ] [我在工作中是如何优化代码的 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/77372813-35eb-4ab0-9dea-85f06052ffb7/)
 
 - [x] [JS 的5个不良编码习惯，现在就改掉吧 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/16ea2e82-3971-466d-8f55-70b118d702ab/)
+
+
+## 单元测试
+- [x] [JavaScript单元测试框架 - 掘金](https://juejin.im/post/5c413743518825265c2fe7c6)
+
+- [x] [(47 条消息) 怎么为大中型的vue.js项目编写e2e测试？ - 知乎](https://www.zhihu.com/question/51764943)
+
+- [x] [搭建自己的前端自动化测试脚手架（三） - 随记 - SegmentFault 思否](https://segmentfault.com/a/1190000006048066)
 
 
 ## Vue
