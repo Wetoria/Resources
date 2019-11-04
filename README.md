@@ -301,6 +301,8 @@
 
 - [x] [《前端实战》之变量提升，函数声明提升及变量作用域详解 - 掘金](https://juejin.im/post/5dbc49db6fb9a020512b3f8f)
 
+- [x] [7道简单的 JavaScript 面试题，三个月没招到一个人 - 掘金](https://juejin.im/post/5dbe818a6fb9a0203c34e4bb)
+
 ## 如何编写高质量的代码
 - [ ] [前端进阶（3） - 怎样提升代码质量 - 深予之 - SegmentFault 思否](https://app.yinxiang.com/shard/s59/nl/11394703/2734acad-d387-4ddd-8ed5-c8bed97d794e/)
 
@@ -634,3 +636,5 @@
 - [x] [[技术翻译]9个可以让你在2020年成为前端专家的项目 - 掘金](https://juejin.im/post/5db71290f265da4d1c6999a0)
 
 - [x] [运营商劫持狠起来，连json都改 - 掘金](https://juejin.im/post/5dba3e7ee51d4529fc3fa901)
+
+- [x] [量化交易之股票数据的获取——Pandas API接口 - Python量化交易 - SegmentFault 思否](https://segmentfault.com/a/1190000012822899)
