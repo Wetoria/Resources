@@ -303,6 +303,10 @@
 
 - [x] [7道简单的 JavaScript 面试题，三个月没招到一个人 - 掘金](https://juejin.im/post/5dbe818a6fb9a0203c34e4bb)
 
+- [x] [html2canvas-实现页面截图 - 掘金](https://juejin.im/post/5bcdac8d6fb9a05d3017910d)
+
+- [x] [基于html2canvas实现网页保存为图片及图片清晰度优化 - 小云朵 - SegmentFault 思否](https://segmentfault.com/a/1190000011478657)
+
 ## 如何编写高质量的代码
 - [ ] [前端进阶（3） - 怎样提升代码质量 - 深予之 - SegmentFault 思否](https://app.yinxiang.com/shard/s59/nl/11394703/2734acad-d387-4ddd-8ed5-c8bed97d794e/)
 
