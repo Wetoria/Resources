@@ -161,6 +161,8 @@
 
 - [x] [Vue开发中怎么去处理多人协作开发(一) ---- 路由篇 - 掘金](https://juejin.im/post/5da81943f265da5b5e2da4ac)
 
+- [x] [vue 自定义右键样式 - 掘金](https://juejin.im/post/5dc14607f265da4d432a3cf6)
+
 ### 3.0
 - [x] [为什么Vue3.0使用Proxy实现数据监听？defineProperty表示不背这个锅 - 掘金](https://juejin.im/post/5da29a87518825094e37301c)
 
@@ -306,6 +308,10 @@
 - [x] [html2canvas-实现页面截图 - 掘金](https://juejin.im/post/5bcdac8d6fb9a05d3017910d)
 
 - [x] [基于html2canvas实现网页保存为图片及图片清晰度优化 - 小云朵 - SegmentFault 思否](https://segmentfault.com/a/1190000011478657)
+
+- [x] [有道题，得细说（一道异步相关的面试题） - 掘金](https://juejin.im/post/5dc12da8f265da4cfb512db0)
+
+- [x] [数组扁平化 Array.flat() 替代方案 - 掘金](https://juejin.im/post/5dc141196fb9a04a7b29cca8)
 
 ## 如何编写高质量的代码
 - [ ] [前端进阶（3） - 怎样提升代码质量 - 深予之 - SegmentFault 思否](https://app.yinxiang.com/shard/s59/nl/11394703/2734acad-d387-4ddd-8ed5-c8bed97d794e/)
@@ -457,6 +463,8 @@
 ### GitHub
 
 - [x] [GitHub 上能挖矿的神仙技巧 - 如何发现优秀开源项目 · Issue #45 · biaochenxuying/blog](https://app.yinxiang.com/shard/s59/nl/11394703/d08e2c57-643f-4109-bb94-cce74aa930d1/)
+
+- [x] [提交代码到GitHub，"小绿格"却不增加 - 掘金](https://juejin.im/post/5dc0e423f265da4d2c5ea133)
 
 
 ## 网络
@@ -642,3 +650,5 @@
 - [x] [运营商劫持狠起来，连json都改 - 掘金](https://juejin.im/post/5dba3e7ee51d4529fc3fa901)
 
 - [x] [量化交易之股票数据的获取——Pandas API接口 - Python量化交易 - SegmentFault 思否](https://segmentfault.com/a/1190000012822899)
+
+- [x] [(1 封私信 / 50 条消息) 随着计算机发展，有2进制、8进制、16进制，为什么没32进制、64进制？ - 知乎](https://www.zhihu.com/question/37657503)
