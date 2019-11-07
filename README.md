@@ -33,6 +33,8 @@
 
 - [ ] [面试官：你能实现多少种水平垂直居中的布局（定宽高和不定宽高） - 掘金](https://juejin.im/post/5db706d5f265da4d31073959)
 
+- [x] [一道网红面试题（腾讯、百度面试中都出现过） - 掘金](https://juejin.im/post/5dbff8735188252ddb2fd25e)
+
 ## node & npm
 - [ ] [前端工程化（5）：你所需要的npm知识储备都在这了](https://app.yinxiang.com/shard/s59/nl/11394703/b9f2e0f3-31d8-408f-8176-f465cab4f532/)  
 
@@ -312,6 +314,8 @@
 - [x] [有道题，得细说（一道异步相关的面试题） - 掘金](https://juejin.im/post/5dc12da8f265da4cfb512db0)
 
 - [x] [数组扁平化 Array.flat() 替代方案 - 掘金](https://juejin.im/post/5dc141196fb9a04a7b29cca8)
+
+- [x] [可能是最全的 “文本溢出截断省略” 方案合集 - 掘金](https://juejin.im/post/5dc15b35f265da4d432a3d10)
 
 ## 如何编写高质量的代码
 - [ ] [前端进阶（3） - 怎样提升代码质量 - 深予之 - SegmentFault 思否](https://app.yinxiang.com/shard/s59/nl/11394703/2734acad-d387-4ddd-8ed5-c8bed97d794e/)
