@@ -15,6 +15,12 @@
 - ## 知识点
 - [x] [面试时面试官想要听到什么答案（关于一些vue的问题） - 掘金](https://juejin.im/post/5dac07675188253d706643f4)
 
+<!-- asdfas -->
+
+[^_^]: test
+
+[//]: test
+
 - [ ] [web前端面试总结(自认为还算全面哈哈哈哈哈！！！） - 掘金](https://juejin.im/post/5dafb263f265da5b9b80244d)
 
 - [ ] [面试官：请实现三栏布局，尽可能多的方式。 - 掘金](https://juejin.im/post/5daebfc2518825502a44602a)
