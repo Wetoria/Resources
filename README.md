@@ -40,15 +40,19 @@
 - [x] [一道网红面试题（腾讯、百度面试中都出现过） - 掘金](https://juejin.im/post/5dbff8735188252ddb2fd25e)
 
 - [x] [装饰你的敲门砖，离大厂更进一步 - 掘金](https://juejin.im/post/5dc26364f265da4d0e00a8af)  
+
 [//]: https://app.yinxiang.com/shard/s59/nl/11394703/d6b53acf-7477-4b6c-8e17-4a55dd3e3a5f/
 
 - [x] [Web 安全总结(面试必备良药) - 掘金](https://juejin.im/post/5dca1b376fb9a04a9f11c82e#heading-8)  
+
 [//]: https://app.yinxiang.com/shard/s59/nl/11394703/02034b7d-977c-4970-acc8-e5d7ee1fe24c/
 
 - [x] [听说会做这道题的人后来都进了头条？ - 掘金](https://juejin.im/post/5dca5516f265da4d3429b003)  
+
 [//]: https://app.yinxiang.com/shard/s59/nl/11394703/c7e8445f-e787-4945-848d-61b7f73c2b3e/
 
 - [x] [通过 20 个棘手的ES6面试问题来提高咱们的 JS 技能 - 掘金](https://juejin.im/post/5dc8a231f265da4d40712f8a)
+
 [//]: https://app.yinxiang.com/shard/s59/nl/11394703/f2095b10-23c0-44ee-8db8-f61d28b65319/
 
 ## node & npm
@@ -182,6 +186,7 @@
 - [x] [vue 自定义右键样式 - 掘金](https://juejin.im/post/5dc14607f265da4d432a3cf6)
 
 - [x] [VS Code 调试vue项目 - 掘金](https://juejin.im/post/5dc95c585188250c1250d5a0)  
+
 [//]: https://app.yinxiang.com/shard/s59/nl/11394703/af8efbe4-72d9-4751-b806-0cab022f4d61/
 
 ### 3.0
@@ -286,6 +291,7 @@
 - [ ] [能让你受益匪浅的10个css使用技巧 - 掘金](https://juejin.im/post/5db810aff265da4d34299db9)
 
 - [x] [响应式布局方法总结 - 掘金](https://juejin.im/post/5dc64eef6fb9a04abd4cd1b3)  
+
 [//]: https://app.yinxiang.com/shard/s59/nl/11394703/83a1d279-0757-4e12-bffe-fb942cadb7a8/
 
 ### JavaScript
@@ -340,6 +346,7 @@
 - [x] [可能是最全的 “文本溢出截断省略” 方案合集 - 掘金](https://juejin.im/post/5dc15b35f265da4d432a3d10)
 
 - [x] [最后一次学习 JavaScript 函数式编程 - 掘金](https://juejin.im/post/5dc7a42ae51d45092d32d0cd)  
+
 [//]: https://app.yinxiang.com/shard/s59/nl/11394703/8278fbe5-e9a2-4387-9df4-9269dc711f26/
 
 ## 如何编写高质量的代码
@@ -683,4 +690,5 @@
 - [x] [(1 封私信 / 50 条消息) 随着计算机发展，有2进制、8进制、16进制，为什么没32进制、64进制？ - 知乎](https://www.zhihu.com/question/37657503)
 
 - [x] [前端安全常识面试题学习笔记 - 掘金](https://juejin.im/post/5dc37c9c5188255f8d546b80)  
+
 [//]: https://juejin.im/post/5dc37c9c5188255f8d546b80
