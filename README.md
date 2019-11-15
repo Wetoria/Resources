@@ -558,6 +558,8 @@
 ## Clean Architecture
 - [x] [前端架构-让重构不那么痛苦（译） - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/43407352-1ca3-4c4c-8846-4b55464f1aa1/)
 
+  - 在前端开发中，可以把业务逻辑和前端表现给抽取出来。
+
 ## Hexo
 - [x] [怎么用hexo上传一个README.md到github?（Ubuntu） - 知乎](https://app.yinxiang.com/shard/s59/nl/11394703/f890922e-c7b4-4d2b-8d37-d07f980a79d1/)
 
