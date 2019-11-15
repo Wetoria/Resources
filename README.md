@@ -55,6 +55,10 @@
 
 [//]: https://app.yinxiang.com/shard/s59/nl/11394703/f2095b10-23c0-44ee-8db8-f61d28b65319/
 
+- [【前方高能】新手到高级前端攻城狮都用的上的前端面试题库，备战明年金三银四 - 掘金](https://juejin.im/post/5dcbb828f265da4cf85d84b4)
+
+[//]: https://app.yinxiang.com/shard/s59/nl/11394703/8d1184b6-f317-41c7-925a-fa535d8294ee/
+
 ## node & npm
 - [ ] [前端工程化（5）：你所需要的npm知识储备都在这了](https://app.yinxiang.com/shard/s59/nl/11394703/b9f2e0f3-31d8-408f-8176-f465cab4f532/)  
 
@@ -188,6 +192,10 @@
 - [x] [VS Code 调试vue项目 - 掘金](https://juejin.im/post/5dc95c585188250c1250d5a0)  
 
 [//]: https://app.yinxiang.com/shard/s59/nl/11394703/af8efbe4-72d9-4751-b806-0cab022f4d61/
+
+- [x] [构建大型 Vue.js 项目的10条建议 - 掘金](https://juejin.im/post/5dcbd5f66fb9a06061527cb9)
+
+[//]: https://app.yinxiang.com/shard/s59/nl/11394703/49b4c60e-33bc-4a92-90cb-283ef463ec1b/
 
 ### 3.0
 - [x] [为什么Vue3.0使用Proxy实现数据监听？defineProperty表示不背这个锅 - 掘金](https://juejin.im/post/5da29a87518825094e37301c)
@@ -446,6 +454,10 @@
 
 - [跨域资源共享 CORS 详解 - 阮一峰的网络日志](https://app.yinxiang.com/shard/s59/nl/11394703/4364b738-9235-4529-bbdf-91e59220baad/)
 
+- [跨域技术（上） - 掘金](https://juejin.im/post/5dc626dbf265da4d24590d88)
+
+[//]: https://app.yinxiang.com/shard/s59/nl/11394703/ea198828-9dae-41a3-bf78-5f75d65a9601/
+
 ### 缓存
 - [ ] [你应该知道的浏览器缓存知识 - 韩小平的博客](https://app.yinxiang.com/shard/s59/nl/11394703/a6654feb-7587-435b-97e3-96096177ae9f/)
 
@@ -692,3 +704,11 @@
 - [x] [前端安全常识面试题学习笔记 - 掘金](https://juejin.im/post/5dc37c9c5188255f8d546b80)  
 
 [//]: https://juejin.im/post/5dc37c9c5188255f8d546b80
+
+- [x] [我的前端成长之路 · 语雀](https://www.yuque.com/yubo/morning/grow-up-at-alibaba)
+
+[//]: https://app.yinxiang.com/shard/s59/nl/11394703/8e22c998-546b-41da-9684-1811b529b568/
+
+- [x] [【Canvas真好玩】从黑客帝国开始 - 掘金](https://juejin.im/post/5dc7d8eee51d452c20567f87)
+
+[//]: https://app.yinxiang.com/shard/s59/nl/11394703/080ae7ff-2a09-4347-9792-b7d554fa1927/
