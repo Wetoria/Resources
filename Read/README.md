@@ -262,3 +262,23 @@
 - [月薪2W，16薪，我辞职了：不要在最该奋斗的年纪选择安逸](http://mp.weixin.qq.com/s?__biz=MzAwNTMxOTAzOQ==&mid=2650289444&idx=1&sn=bf51144a267f80ce16d06bbb31ab4329&chksm=8312e534b4656c22e3bb242e955f5398487a2b464ae43ee96af402be713cb5fde6b8e9b243bd&mpshare=1&scene=1&srcid=&sharer_sharetime=1573740772871&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
 
 [//]: https://app.yinxiang.com/shard/s59/nl/11394703/94b4a063-7dba-4597-9800-280076c73568/
+
+
+- [罗振宇即将A股上市，他真是个贩卖焦虑的骗子吗？](http://mp.weixin.qq.com/s?__biz=MzI1MzcyOTUxNA==&mid=2247497537&idx=1&sn=4fbe151a99ba3454c6ea3df9898de1eb&chksm=e9d2b8c4dea531d2899d5a24c00ce79536d2811acc4c4548cb3a509104505c765a9169ea5c88&mpshare=1&scene=1&srcid=&sharer_sharetime=1573903962569&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
+  > 对于知识付费，能不花钱就不花钱  
+  > 宁大勿小。不要因为一点小细节，而满盘皆输  
+  > 确认阶段目标。以目标推动行动。
+
+[//]: https://app.yinxiang.com/shard/s59/nl/11394703/40f89d01-cb2c-4b55-9bb9-073c2a33b4eb/
+
+- [企业要做大，用牛人还是用普通人？](http://mp.weixin.qq.com/s?__biz=MzIzMTUyOTY3NA==&mid=2247496523&idx=1&sn=1f626c182a47af0f18b25c472232f651&chksm=e8a07eeedfd7f7f8bb8f8e9b4c09ff7773c577d8676d74c80cb4ff36ce8e73da4bdb6edab2e3&mpshare=1&scene=1&srcid=&sharer_sharetime=1573981530093&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
+  > 提高学习能力、执行力、解决问题的能力。  
+  > 在这三点上，执行力还欠缺。
+
+[//]: https://app.yinxiang.com/shard/s59/nl/11394703/377f07b5-7670-4e67-b685-19505e0578df/
+
+- [辞退100名员工，不如干掉1个糟糕的管理者](http://mp.weixin.qq.com/s?__biz=MzI1MzcyOTUxNA==&mid=2247497476&idx=3&sn=fdf85595d21e371b3455806082bd21cd&chksm=e9d2b881dea531970cd72d6afc44d8bd1fad4adfac52008bcef5205bf517dc555c5d18e0f305&mpshare=1&scene=1&srcid=&sharer_sharetime=1573981713132&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
+  - 从管理的角度讲，假设一名管理者，管理100名员工，如果他设法让每个人增加5%的贡献，那么整个组织将增加5%的收入。
+  > 不做糟糕的管理者（摸企业油水）。  
+  > 学会如何激励下属
+
