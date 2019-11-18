@@ -265,20 +265,66 @@
 
 
 - [罗振宇即将A股上市，他真是个贩卖焦虑的骗子吗？](http://mp.weixin.qq.com/s?__biz=MzI1MzcyOTUxNA==&mid=2247497537&idx=1&sn=4fbe151a99ba3454c6ea3df9898de1eb&chksm=e9d2b8c4dea531d2899d5a24c00ce79536d2811acc4c4548cb3a509104505c765a9169ea5c88&mpshare=1&scene=1&srcid=&sharer_sharetime=1573903962569&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
-  > 对于知识付费，能不花钱就不花钱  
-  > 宁大勿小。不要因为一点小细节，而满盘皆输  
-  > 确认阶段目标。以目标推动行动。
+  - 对于知识付费，能不花钱就不花钱  
+  - 宁大勿小。不要因为一点小细节，而满盘皆输  
+  - 确认阶段目标。以目标推动行动。
 
 [//]: https://app.yinxiang.com/shard/s59/nl/11394703/40f89d01-cb2c-4b55-9bb9-073c2a33b4eb/
 
 - [企业要做大，用牛人还是用普通人？](http://mp.weixin.qq.com/s?__biz=MzIzMTUyOTY3NA==&mid=2247496523&idx=1&sn=1f626c182a47af0f18b25c472232f651&chksm=e8a07eeedfd7f7f8bb8f8e9b4c09ff7773c577d8676d74c80cb4ff36ce8e73da4bdb6edab2e3&mpshare=1&scene=1&srcid=&sharer_sharetime=1573981530093&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
-  > 提高学习能力、执行力、解决问题的能力。  
-  > 在这三点上，执行力还欠缺。
+  - 提高学习能力、执行力、解决问题的能力。  
+  - 在这三点上，执行力还欠缺。
 
 [//]: https://app.yinxiang.com/shard/s59/nl/11394703/377f07b5-7670-4e67-b685-19505e0578df/
 
 - [辞退100名员工，不如干掉1个糟糕的管理者](http://mp.weixin.qq.com/s?__biz=MzI1MzcyOTUxNA==&mid=2247497476&idx=3&sn=fdf85595d21e371b3455806082bd21cd&chksm=e9d2b881dea531970cd72d6afc44d8bd1fad4adfac52008bcef5205bf517dc555c5d18e0f305&mpshare=1&scene=1&srcid=&sharer_sharetime=1573981713132&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
-  - 从管理的角度讲，假设一名管理者，管理100名员工，如果他设法让每个人增加5%的贡献，那么整个组织将增加5%的收入。
-  > 不做糟糕的管理者（摸企业油水）。  
-  > 学会如何激励下属
+  > 从管理的角度讲，假设一名管理者，管理100名员工，如果他设法让每个人增加5%的贡献，那么整个组织将增加5%的收入。
+  - 不做糟糕的管理者（摸企业油水）。  
+  - 学会如何激励下属
 
+[//]: https://app.yinxiang.com/shard/s59/nl/11394703/ea609e97-e2c2-498d-b903-2bb156c6d454/
+
+- [工作五年甚至十年后，你依然能从工作中带走的是什么？](http://mp.weixin.qq.com/s?__biz=MzA4ODM1MTMzMQ==&mid=2651829729&idx=1&sn=ea6094db231bd8256a39ed303475c585&chksm=8bd062edbca7ebfbb4d3cb149e5a3b5df75c7e4432320909b7fb643a9b1962094ef452e0b9c4&mpshare=1&scene=1&srcid=1019i5y3DYKkF1Z5YUqXx2Se&sharer_sharetime=1574015499429&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
+  - 学会清零  
+  - 居安思危  
+  - 以小成就积累自信。 在自信这方面，自己倒是不虚。
+
+[//]: https://app.yinxiang.com/shard/s59/nl/11394703/bd924686-e64d-40f5-ba17-7ad64bca11d1/
+
+- [“拉开差距的本质，你只看到个假象”](http://mp.weixin.qq.com/s?__biz=MzI0NTY2MjQ5OQ==&mid=2247491849&idx=3&sn=54370bcb722bf348fb66f59f2960846d&chksm=e949b745de3e3e536d26f26ca58f6b65185c49697b5dbfa9989e67d282a1ee64ef6bf503a1ef&mpshare=1&scene=1&srcid=1016cklsuurGi1vsijKP6BKG&sharer_sharetime=1574015863236&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
+  - 在学校里，因为评定标准就是成绩好不好，受不受老师欢迎，所以当你跟身边的人，在这些方面都差不多时，你心理上会觉得你们没差别，但其实人家背后有家庭底蕴支撑，没有后顾之忧。
+
+  > 当然不是，首先如果你不努力，那么你的下一代就会延续你的老路，因为你没有给他足够的积累。  
+  > 实现阶层的跨越，往往是需要几代人一起努力，中间哪个环节断掉都不行，你现在所做的任何努力，其实都是在为子孙创造更好的环境
+
+  - 要努力，没有背景，自己不断打造自己的背景。保持精进。
+
+[//]: https://app.yinxiang.com/shard/s59/nl/11394703/161616ba-855a-4c17-8c0e-c7e13273f6c0/
+
+- [温故1984：那一年中国有多厉害，没经历过的人根本无法想象](http://mp.weixin.qq.com/s?__biz=MzI1MzcyOTUxNA==&mid=2247497453&idx=1&sn=0ba98c568599df042d662ec774b25bc0&chksm=e9d2b968dea5307e7f4cdf3b18e16599e5b33ddbc84c351514827cba2963b6ad0c787e389d06&mpshare=1&scene=1&srcid=&sharer_sharetime=1574016726376&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
+
+[//]: https://app.yinxiang.com/shard/s59/nl/11394703/d9b15ca3-9d1b-49c8-a0d8-86bc49f27480/
+
+- [笑死了，到底老板能不能忍95后？](http://mp.weixin.qq.com/s?__biz=MzIzMTUyOTY3NA==&mid=2247496519&idx=1&sn=4e2fbafb434c0e4e3a687e5a7a742bd8&chksm=e8a07ee2dfd7f7f4c660d7abfd52002cfe4081484f5201d99595eac49074e50f1b368d2e5f4e&mpshare=1&scene=1&srcid=&sharer_sharetime=1574017060043&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
+  > 人生遇到困难，拼就赢，躲就输。  
+  > 我这个人这辈子做了很多完全不适合我的事情。  
+  > 我完全不适合学英语，听力太差，完全听不见辅音，我还是靠刷题过了四六级；  
+  > 我完全不适合做科研，还是充分利用规则，评上了副教授。  
+  > 我完全不适合创业，但还是咬着牙，带着团队学习把公司做大。  
+  > 我如果怂了，就没有站在这里说话的资格了。  
+  > 请不要用后路让自己变得脆弱，纠结，无助，人生一回，总有几场不服就干！  
+  > 实在干不赢，咱们再愿赌服输。  
+  > 时间管理训练营第一课教你是杀死选择，而不是鱼和熊掌兼得。  
+  > 我是这样的，我一旦意识到这个目标躲不过，或者这个责任躲不过，我所有的本能反应不是逃避，而是激发全部战斗力——死就死吧，但我不会放弃的。  
+  > 这是我的性格。做很多事，你有无数个理由去放弃，但坚持只需要一条理由：这个事我要搞定。  
+
+[//]: https://app.yinxiang.com/shard/s59/nl/11394703/830536d8-bbee-4f4c-80d4-1c235ff490dc/
+
+- [当PPT排版没思路时，马上就用万能排版术](http://mp.weixin.qq.com/s?__biz=MzU0MDI5MTA3OA==&mid=2247493459&idx=1&sn=383c5c0d88b4a148863a8b0558eaff27&chksm=fb39de3acc4e572cf995a1bf5731b401065c70d79cef02ea8d24abf8fcf230d0cdc770bea414&mpshare=1&scene=1&srcid=&sharer_sharetime=1574017343144&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
+
+[//]:https://app.yinxiang.com/shard/s59/nl/11394703/e879ed59-720e-4944-8882-b1e6bf439040/
+
+- [你不知道财务自由的代价](http://mp.weixin.qq.com/s?__biz=MzI1MzcyOTUxNA==&mid=2247498751&idx=3&sn=45dff67761c4715fec14d27524bcff46&chksm=e9d2b47adea53d6cad01bd58396cb2b3c6daf0bd32c4c350b655545e5070364d0eddb5b0f21f&mpshare=1&scene=1&srcid=&sharer_sharetime=1574039775100&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
+  - 财务要自由，但精神上不能自由，要有自己的精神粮食。
+
+[//]: https://app.yinxiang.com/shard/s59/nl/11394703/c6e70c4e-5a51-43af-999a-76e045a231c4/

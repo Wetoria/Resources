@@ -59,6 +59,14 @@
 
 [//]: https://app.yinxiang.com/shard/s59/nl/11394703/8d1184b6-f317-41c7-925a-fa535d8294ee/
 
+- [面向面试编程，面向掘金面试 - 掘金](https://juejin.im/post/5dd1d90d6fb9a01ff4495ce0)
+
+[//]: https://app.yinxiang.com/shard/s59/nl/11394703/ce86e773-ce29-443c-a7a4-b9cfb372c3bc/
+
+- [栈、堆、队列深入理解，面试无忧 - 掘金](https://juejin.im/post/5dd1096ee51d453af62c328b)
+
+[//]: https://app.yinxiang.com/shard/s59/nl/11394703/cbc2cec5-d114-44c8-b28f-636834bcd151/
+
 ## node & npm
 - [ ] [前端工程化（5）：你所需要的npm知识储备都在这了](https://app.yinxiang.com/shard/s59/nl/11394703/b9f2e0f3-31d8-408f-8176-f465cab4f532/)  
 
@@ -197,6 +205,10 @@
 
 [//]: https://app.yinxiang.com/shard/s59/nl/11394703/49b4c60e-33bc-4a92-90cb-283ef463ec1b/
 
+- [x] [基于 Vue 的两层吸顶踩坑总结 - 掘金](https://juejin.im/post/5dd13460e51d45401f07805e)
+
+[//]: https://app.yinxiang.com/shard/s59/nl/11394703/2dcb5787-4e54-4ef6-97f2-df073500503b/
+
 ### 3.0
 - [x] [为什么Vue3.0使用Proxy实现数据监听？defineProperty表示不背这个锅 - 掘金](https://juejin.im/post/5da29a87518825094e37301c)
 
@@ -242,6 +254,22 @@
 - [x] [React入门---react脚手架 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/02b6cbbf-9d46-48ba-8869-960cd9c42ae3/)
 
 - [x] [21个让React 开发更高效更有趣的工具 - 掘金](https://app.yinxiang.com/shard/s59/nl/11394703/bf6fedf0-81ff-420e-bb83-7d5a9074a65f/)
+
+- [ ] [Build your own React in 90 lines of JavaScript - DEV Community 👩‍💻👨‍💻](https://dev.to/ameerthehacker/build-your-own-react-in-90-lines-of-javascript-1je2)
+
+[//]: https://app.yinxiang.com/shard/s59/nl/11394703/612b6837-0be3-4c8d-9ea8-4bdac49d26ac/
+
+- [x] [React 组件件通信2——非父子组件间通信 - 简书](https://www.jianshu.com/p/9baca3ca08fa)
+
+[//]: https://app.yinxiang.com/shard/s59/nl/11394703/62bb83bc-ac03-4c95-91a6-9b4feb550032/
+
+- [x] [团队 React 代码规范制定 - 掘金](https://juejin.im/post/5dd1d80cf265da0bf350d1fa)
+
+[//]: https://app.yinxiang.com/shard/s59/nl/11394703/300d33e2-a804-4a4b-895d-176135161dc3/
+
+- [x] [简单易懂的 React useState() Hook 指南（长文建议收藏） - 掘金](https://juejin.im/post/5dd1df576fb9a01fdc1304a8)
+
+[//]: https://app.yinxiang.com/shard/s59/nl/11394703/41979aa5-57dd-454f-9e51-9fc8bbbbb977/
 
 ### 坑
 - [ ] [中文輸入法與React文字輸入框的問題與解決方案](https://app.yinxiang.com/shard/s59/nl/11394703/99cc4295-5095-4da0-83bf-c0dfb2f91c24/)
@@ -356,6 +384,10 @@
 - [x] [最后一次学习 JavaScript 函数式编程 - 掘金](https://juejin.im/post/5dc7a42ae51d45092d32d0cd)  
 
 [//]: https://app.yinxiang.com/shard/s59/nl/11394703/8278fbe5-e9a2-4387-9df4-9269dc711f26/
+
+- [x] [判断JS数据类型的四种方法 - 一像素 - 博客园](https://www.cnblogs.com/onepixel/p/5126046.html)
+
+[//]: https://app.yinxiang.com/shard/s59/nl/11394703/cb66af4b-3ca3-48e8-a8c5-d95adea1dc41/
 
 ## 如何编写高质量的代码
 - [ ] [前端进阶（3） - 怎样提升代码质量 - 深予之 - SegmentFault 思否](https://app.yinxiang.com/shard/s59/nl/11394703/2734acad-d387-4ddd-8ed5-c8bed97d794e/)
@@ -714,3 +746,5 @@
 - [x] [【Canvas真好玩】从黑客帝国开始 - 掘金](https://juejin.im/post/5dc7d8eee51d452c20567f87)
 
 [//]: https://app.yinxiang.com/shard/s59/nl/11394703/080ae7ff-2a09-4347-9792-b7d554fa1927/
+
+- [中文字体网页开发指南 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2014/07/chinese_fonts.html)
