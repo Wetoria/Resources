@@ -125,6 +125,10 @@
 
 - [ ] [[手把手系列之] Jenkins+Docker自动化部署vue项目 - 掘金](https://juejin.im/post/5db9474bf265da4d1206777e#heading-20)
 
+- [ ] [一张Web性能优化参考图 - 掘金](https://juejin.im/post/5d2fdaa1e51d45108f2542b5)
+
+[//]: https://app.yinxiang.com/shard/s59/nl/11394703/6673e26c-4d20-4d71-a894-01fd7f6eb8e3/
+
 ### 前端
 - [x] [从 0 到 1 再到 100, 搭建、编写、构建一个前端项目 - 深予之 - SegmentFault 思否](https://app.yinxiang.com/shard/s59/nl/11394703/1808896d-201d-4091-b29e-bc8ab0e0eb29/)
 
@@ -270,6 +274,14 @@
 - [x] [简单易懂的 React useState() Hook 指南（长文建议收藏） - 掘金](https://juejin.im/post/5dd1df576fb9a01fdc1304a8)
 
 [//]: https://app.yinxiang.com/shard/s59/nl/11394703/41979aa5-57dd-454f-9e51-9fc8bbbbb977/
+
+- [x] [如何对 React 函数式组件进行优化 - 掘金](https://juejin.im/post/5dd337985188252a1873730f#heading-13)
+
+[//]: https://app.yinxiang.com/shard/s59/nl/11394703/c95cb3d5-2627-420e-9fcd-9d6f9680c7c0/
+
+- [x] [21个React性能优化技巧-InfoQ](https://www.infoq.cn/article/KVE8xtRs-uPphptq5LUz)
+
+[/]: https://app.yinxiang.com/shard/s59/nl/11394703/e3cce169-24fa-4673-8d40-dae80a331979/
 
 ### 坑
 - [ ] [中文輸入法與React文字輸入框的問題與解決方案](https://app.yinxiang.com/shard/s59/nl/11394703/99cc4295-5095-4da0-83bf-c0dfb2f91c24/)
@@ -748,3 +760,23 @@
 [//]: https://app.yinxiang.com/shard/s59/nl/11394703/080ae7ff-2a09-4347-9792-b7d554fa1927/
 
 - [中文字体网页开发指南 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2014/07/chinese_fonts.html)
+
+- [x] [下一站，开启新的篇章 - 掘金](https://juejin.im/post/5dd211bde51d453daa0e4392)
+
+[//]: https://app.yinxiang.com/shard/s59/nl/11394703/50b9fa9a-7501-443a-a1c8-3808e426d3d1/
+
+- [x] [前端该如何准备数据结构和算法？ - 掘金](https://juejin.im/post/5d5b307b5188253da24d3cd1)
+
+[//]: https://app.yinxiang.com/shard/s59/nl/11394703/69150909-c880-45bf-9b9b-b306eb9b280e/
+
+- [x] [最近程序员频繁被抓，如何避免面向监狱编程！？ - 掘金](https://juejin.im/post/5db64bc7f265da4d0c1747d3)
+
+[//]: https://app.yinxiang.com/shard/s59/nl/11394703/16e49f8e-7427-45f0-9519-80ec73988307/
+
+- [x] [大学生活这样过，校招 offer 飞来找 - 掘金](https://juejin.im/post/5dd32b7ce51d453fe773f0cd)
+
+[/]: https://app.yinxiang.com/shard/s59/nl/11394703/d916ba37-7229-4913-987f-9cfbb137ebca/
+
+- [x] [战五渣程序员的五项必备技能 - 掘金](https://juejin.im/post/5dd35e5df265da0c05295e38)
+
+[/]: https://app.yinxiang.com/shard/s59/nl/11394703/ffa65e7c-5d16-445d-9a43-f346cc254b32/
