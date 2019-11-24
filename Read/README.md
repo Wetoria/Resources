@@ -362,3 +362,35 @@
   > 西恩这席话成为了我接触“积极沟通”的第一课。“我不知道，但是我会去查”在后来也成为了我自己的口头禅——而且，我还发现了一个西恩没有告诉我的好处：查了很多次后，自己的知识也在增长，以后需要说这句话的机会就越来越少了。 
   
 [//]: https://app.yinxiang.com/shard/s59/nl/11394703/e018a38c-92a4-4ae7-b099-91dfeaf0baed/
+
+- [一次聊天，获得300万：能成大事的人，都懂得麻烦别人](http://mp.weixin.qq.com/s?__biz=MzI0NTY2MjQ5OQ==&mid=2247492712&idx=3&sn=1b5783359dff9f2c19d83ff1cba6a879&chksm=e949b224de3e3b32c812f403de2a1f51f0c0fd63e72e5ae7d7d7df9080f91ac3e2e7f13bea32&mpshare=1&scene=1&srcid=112158HbvXn4GqnACC2d4cSG&sharer_sharetime=1574396193952&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
+
+[/]: https://app.yinxiang.com/shard/s59/nl/11394703/6c1d08ca-770c-4dff-a1b6-1ca75054bf0e/
+
+- [40岁的吴尊，活出了中年人最拼的样子](http://mp.weixin.qq.com/s?__biz=MzA3NjU2MDUzMA==&mid=2673031186&idx=1&sn=3270337ee33d0087b9f9f3c26f0c09ec&chksm=85f8f9efb28f70f9660c289d04bdd50b1c40485bea18e7f3a9785c1b0d330b603acb54b1aa49&mpshare=1&scene=1&srcid=&sharer_sharetime=1574396388379&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
+  - 从小养成孩子的思维逻辑能力、学习能力、理解能力。
+  - [ ] 门萨思维练习系列三本书
+
+[/]: https://app.yinxiang.com/shard/s59/nl/11394703/1938a17b-17f2-4f5b-be7c-0cdf7fb8df68/
+
+- [什么鬼？刚刚录取的实习生，居然主动要求加薪！](http://mp.weixin.qq.com/s?__biz=MjM5MDgxNjc0MA==&mid=2651018835&idx=1&sn=bbc69382b4d382b09b107a0e4536298e&chksm=bd48f6d88a3f7fcec4e30329d7f4de6dc7cbaa43e59312811f97a403c937d4e8d3a8c599ea8f&mpshare=1&scene=1&srcid=&sharer_sharetime=1574396726210&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
+  - 要有自己的硬实力。能够作出贡献，就有加薪的资本。
+  - 要学会思考，即使工作量类任务，也要能总结出自己的经验，优化工作流程。
+
+[/]: https://app.yinxiang.com/shard/s59/nl/11394703/5efbdb95-9865-4f56-95d6-7e0e5624e9a5/
+
+- [王石一句话“惹怒”年轻人：富人的傲慢，与穷人的辛酸](http://mp.weixin.qq.com/s?__biz=MzI1MzcyOTUxNA==&mid=2247498727&idx=1&sn=072fa335d17e28c2b0965161a896ab48&chksm=e9d2b462dea53d7466f622c9b057b58569bb31d7f4cf5a58329995a21aaa8b5ff0d005d51be5&mpshare=1&scene=1&srcid=&sharer_sharetime=1574418317320&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
+  - 不要以己度人。
+  > 每当你忍不住想要评价别人的时候，你就要记得，这个世界上并不是人人拥有你的优越条件。  
+  > ——《了不起的盖茨比》
+
+- [高晓松50岁生日感言：可感恩的很多，可原谅的很少](http://mp.weixin.qq.com/s?__biz=MzI1MzcyOTUxNA==&mid=2247498687&idx=1&sn=2ddbc731185775c64cb4b2d6a76333da&chksm=e9d2b43adea53d2cfc63920d43b9a5863b8801ea3fb1508875edebe0fe8fe039d3b5f243a090&mpshare=1&scene=1&srcid=&sharer_sharetime=1574575846886&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
+  - 从一而终。Doris。
+
+  > 年轻时不负责任，只要自由；  
+  > 现在先负责任，找地儿自由。  
+  >
+  > 一个人，要有一以贯之的世界观，不能要自由的时候，把西方那套拿出来；  
+  > 要钱的时候，把东方那套拿出来。  
+  > 
+  > 人要是太在乎意义了，会损失很多意思。

@@ -401,6 +401,14 @@
 
 [//]: https://app.yinxiang.com/shard/s59/nl/11394703/cb66af4b-3ca3-48e8-a8c5-d95adea1dc41/
 
+- [x] [[js行为研究] 对象作为对象的键会发生什么？ - 掘金](https://juejin.im/post/5dd3fb6b6fb9a0204359c351)
+
+[/]: https://app.yinxiang.com/shard/s59/nl/11394703/dd81161d-632f-4af5-8015-bcd0b5bc520c/
+
+- [x] [多维数组转一维数组（降维的多种方式） - 掘金](https://juejin.im/post/5dd5ed715188254e0722c7ca)
+
+[/]: https://app.yinxiang.com/shard/s59/nl/11394703/e2df1b6a-e55c-4bae-97fe-92386ae3c909/
+
 ## 如何编写高质量的代码
 - [ ] [前端进阶（3） - 怎样提升代码质量 - 深予之 - SegmentFault 思否](https://app.yinxiang.com/shard/s59/nl/11394703/2734acad-d387-4ddd-8ed5-c8bed97d794e/)
 
@@ -490,6 +498,24 @@
 
 - [x] [《前端实战总结》如何在不刷新页面的情况下改变URL - 掘金](https://juejin.im/post/5db9ac9cf265da4d4a3061a2)
 
+### IE
+- [x] [高版本IE中弹出窗口不显示IE地址栏的解决方法 - 小马菜菜的专栏 - CSDN博客](https://blog.csdn.net/wyp_810618/article/details/49558951)
+  - IE添加受信站点会导致网页对话框中不显示浏览器地址。
+
+[/]: https://app.yinxiang.com/shard/s59/nl/11394703/36444cc8-1bf0-4dc7-8776-a919bf21209a/
+
+#### IE插件开发
+- [x] [小工具开发笔记—IE自动填表器—第零篇：序 - Miles Chen - 博客园](https://www.cnblogs.com/stainboy/articles/cpp-develop-ie-auto-fill-form-plugin.html)
+
+[/]: https://app.yinxiang.com/shard/s59/nl/11394703/b591d1c3-63e6-4d1d-81b1-684da8cf1501/
+
+- [x] [小工具开发笔记—IE自动填表器—第一篇：你好，世界 - Miles Chen - 博客园](https://www.cnblogs.com/stainboy/archive/2010/09/07/cpp-develop-ie-auto-fill-form-plugin-hello-world.html)
+
+[/]: https://app.yinxiang.com/shard/s59/nl/11394703/055ce36e-d2ea-44cb-b148-4e1b54b60675/
+
+- [x] [小工具开发笔记—IE自动填表器 -- 第二篇：执行一段JavaScript脚本 - Miles Chen - 博客园](https://www.cnblogs.com/stainboy/archive/2013/03/10/cpp-develop-ie-auto-fill-form-plugin-eval.html)
+
+[/]: https://app.yinxiang.com/shard/s59/nl/11394703/c359889b-1989-4e9e-98f0-2d4aa313354d/
 
 ### 跨域
 - [x] [不要再问我跨域的问题了 - 个人文章 - SegmentFault 思否](https://app.yinxiang.com/shard/s59/nl/11394703/67c09ca7-7954-4ee8-b623-df25727c3dc9/)
@@ -530,6 +556,11 @@
 - [ ] [1小时搞定卡片拖拽、自动排列交换位置、拖拽数据存取 - 掘金](https://juejin.im/post/5da53e29e51d457822796ed8)
 
 - [十分钟学会 tmux - 猫哥_kaiye - 博客园](https://www.cnblogs.com/kaiye/p/6275207.html)
+
+- [x] [21 个VSCode 快捷键，让代码更快，更有趣 - 掘金](https://juejin.im/post/5d34fdfff265da1b897b0c8d)
+  - EBS
+
+[/]: https://app.yinxiang.com/shard/s59/nl/11394703/a2e56d66-3ba9-421b-ad7f-6287a9f2ae7c/
 
 ## Mock
 - [ ] [纯手工打造前端后端分离项目中的mock-server](https://yanm1ng.github.io/2017/06/12/%E7%BA%AF%E6%89%8B%E5%B7%A5%E6%89%93%E9%80%A0%E5%89%8D%E7%AB%AF%E5%90%8E%E7%AB%AF%E5%88%86%E7%A6%BB%E9%A1%B9%E7%9B%AE%E4%B8%AD%E7%9A%84mock-server/)
@@ -611,6 +642,15 @@
 
 ## AppleScript
 [AppleScript](./AppleScript)
+
+## 网络协议
+- [99%的人理解错 HTTP 中 GET 与 POST 的区别 - OSCHINA](https://www.oschina.net/news/77354/http-get-post-different)
+
+[/]: https://app.yinxiang.com/shard/s59/nl/11394703/6206f4ca-f1b6-44ec-a9a4-cc16b2ee44fc/
+
+- [互联网协议入门（一） - 阮一峰的网络日志](https://www.ruanyifeng.com/blog/2012/05/internet_protocol_suite_part_i.html)
+
+[/]: https://app.yinxiang.com/shard/s59/nl/11394703/0e4d527d-d0fb-43c6-a8f8-07c660fda613/
 
 ## Read
 - [x] [如何写出没有BUG的代码](https://app.yinxiang.com/shard/s59/nl/11394703/fbc905b4-de2e-4487-8db0-92921eca7d6c/)
@@ -780,3 +820,11 @@
 - [x] [战五渣程序员的五项必备技能 - 掘金](https://juejin.im/post/5dd35e5df265da0c05295e38)
 
 [/]: https://app.yinxiang.com/shard/s59/nl/11394703/ffa65e7c-5d16-445d-9a43-f346cc254b32/
+
+- [27 个提升开发幸福度的 VsCode 插件 - 掘金](https://juejin.im/post/5dd480c66fb9a01ff0135466)
+
+[/]: https://app.yinxiang.com/shard/s59/nl/11394703/6649e820-095d-462d-900a-7849b22fbef0/
+
+- [如何成为公司独当一面的工程师 - 掘金](https://juejin.im/post/5dd4cc71f265da0bca7899cf)
+
+[/]: https://app.yinxiang.com/shard/s59/nl/11394703/9777f179-6d13-4c7e-b210-b71da62041e0/
