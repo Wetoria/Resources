@@ -394,3 +394,105 @@
   > 要钱的时候，把东方那套拿出来。  
   > 
   > 人要是太在乎意义了，会损失很多意思。
+
+- [你所谓的考研，不过是逃避罢了](http://mp.weixin.qq.com/s?__biz=MzA3NjU2MDUzMA==&mid=2673031147&idx=2&sn=7d07e541d15e09608ce7ee47a4441b89&chksm=85f8f616b28f7f003efee8c74d4ac9c3e55025a6e5e187d4d299ba0df7292af9d395f709761e&mpshare=1&scene=1&srcid=&sharer_sharetime=1574619061448&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
+
+[/]: https://app.yinxiang.com/shard/s59/nl/11394703/80ca68d1-ab1f-4fa4-88b7-e69846a273af/
+
+- [李小璐离婚：38岁的少女感，真的来之不易](http://mp.weixin.qq.com/s?__biz=MzA3NjU2MDUzMA==&mid=2673031147&idx=1&sn=70d17ff1980f547bb3c78f3580e0a606&chksm=85f8f616b28f7f00b2301be0a6c4bbb2aea9bb7ff802230ec3e889beded69af05ee212ee228c&mpshare=1&scene=1&srcid=&sharer_sharetime=1574619307406&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
+  - 把小太阳永远宠成孩子模样。
+
+[/]: https://app.yinxiang.com/shard/s59/nl/11394703/4875345a-0f91-4622-9903-e161c930226d/
+
+- [这些浪费时间的事，千万别做！](http://mp.weixin.qq.com/s?__biz=MjM5MDgxNjc0MA==&mid=2651018782&idx=2&sn=9be778527254328b1d90260d8ac3dd3c&chksm=bd48f6958a3f7f832c37d397026f93128596f0ee275fd21896b5d4d15ddc62a966092253b36a&mpshare=1&scene=1&srcid=&sharer_sharetime=1574619462655&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
+
+[/]: https://app.yinxiang.com/shard/s59/nl/11394703/9075fa65-c5e7-4720-8f27-9161f3833d2c/
+
+- [如果你推荐的人，让别人失望了，怎么办？](http://mp.weixin.qq.com/s?__biz=MzIzMTUyOTY3NA==&mid=2247497042&idx=1&sn=3708839b381c908f9e91a8e9d196d2e6&chksm=e8a078f7dfd7f1e1a405430522122ecc29d5ecfe8192d9b072013a71efdd44ba92cf0c314c08&mpshare=1&scene=1&srcid=&sharer_sharetime=1574619805065&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
+
+[/]: https://app.yinxiang.com/shard/s59/nl/11394703/15f1f2bf-a810-476b-9457-8117f3fec8bc/
+
+- [雷军被00后CEO施压：现在的年轻人，到底有多狠？](http://mp.weixin.qq.com/s?__biz=MzI1MzcyOTUxNA==&mid=2247498621&idx=1&sn=499c9fac59039ae1623dede55f5bdb7d&chksm=e9d2b4f8dea53deefafe34762c0bed561348a0091d3451fcff70f48f3171f873a4c34d0ec9b8&mpshare=1&scene=1&srcid=&sharer_sharetime=1574620582947&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
+
+- [雷军被00后CEO施压：现在的年轻人，到底有多狠？](http://mp.weixin.qq.com/s?__biz=MzI1MzcyOTUxNA==&mid=2247498621&idx=1&sn=499c9fac59039ae1623dede55f5bdb7d&chksm=e9d2b4f8dea53deefafe34762c0bed561348a0091d3451fcff70f48f3171f873a4c34d0ec9b8&mpshare=1&scene=1&srcid=&sharer_sharetime=1574620582947&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
+  > 具备分析能力、看到问题本质并解决问题的能力。
+
+[/]: https://app.yinxiang.com/shard/s59/nl/11394703/5527e5c2-bc00-417a-a580-723e7a5a8f9e/
+
+- [“千万不要做你擅长的事”](http://mp.weixin.qq.com/s?__biz=MzA3NjU2MDUzMA==&mid=2673031130&idx=2&sn=ef92dff1b8fb246416dae43e2e48f221&chksm=85f8f627b28f7f311bbdfac9fd9f630aaea9fb284fae02057057b64fbeb05c6a7ae4fb54e977&mpshare=1&scene=1&srcid=&sharer_sharetime=1574620867224&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
+
+[/]: https://app.yinxiang.com/shard/s59/nl/11394703/97bba560-bac1-44e7-add3-35a960a218ad/
+
+- [所有面试的不自信只有一个问题：思路不对](http://mp.weixin.qq.com/s?__biz=MzI1MzcyOTUxNA==&mid=2247498584&idx=2&sn=d8fe009b6ac0e073601f80e929eadbd5&chksm=e9d2b4dddea53dcb20bd3dedb238692cd7dc771c3fee9cb1ad0a96947512d9d4a8f3a0df0ba0&mpshare=1&scene=1&srcid=&sharer_sharetime=1574621546135&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
+
+[/]: https://app.yinxiang.com/shard/s59/nl/11394703/ca1e1b25-732f-4865-bac1-40b0e6cd8594/
+
+- [李诞辩论首秀，出场即巅峰：我只是假装不努力，你可别当真](http://mp.weixin.qq.com/s?__biz=MzI1MzcyOTUxNA==&mid=2247498584&idx=1&sn=babf3c40ba2aa794f7db98da79cf2b64&chksm=e9d2b4dddea53dcbe99a47e2e83e716c2d614584610bcba38ac30e1cd8046d8b27aa981b4da1&mpshare=1&scene=1&srcid=&sharer_sharetime=1574622359135&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
+
+[/]: https://app.yinxiang.com/shard/s59/nl/11394703/251a2d50-f7f2-426e-bfec-1c915a55d6f1/
+
+- [你觉得生活太累，是因为你太闲](http://mp.weixin.qq.com/s?__biz=MzA3NjU2MDUzMA==&mid=2673031121&idx=2&sn=8ac58f9499aa82a4c25d7a80ed9dc1d8&chksm=85f8f62cb28f7f3a903405836964cf45ade062628dd20f05b203d50121f8c66594d6ad6bc06c&mpshare=1&scene=1&srcid=&sharer_sharetime=1574622562053&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
+
+[/]: https://app.yinxiang.com/shard/s59/nl/11394703/50421d33-a4d8-4c89-8cf2-8023efb3026d/
+
+- [57岁刘德华崩掉1年后，27岁李佳琦垮了：过度努力，真的会毁了你](http://mp.weixin.qq.com/s?__biz=MzI1MzcyOTUxNA==&mid=2247498523&idx=1&sn=0769ee7e5c9b4fe21059b30093441e09&chksm=e9d2b49edea53d88ef61e1b42fdd0e8f88320609d01e20bfa5b70da885a7e3f463e49fa7c64d&mpshare=1&scene=1&srcid=&sharer_sharetime=1574623307137&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
+  - 太上进也是一种病。
+
+[/]: https://app.yinxiang.com/shard/s59/nl/11394703/1ec728d7-7143-47e0-8fd2-766aefd44065/
+
+- [很想拼命努力一把，但是努力不起来怎么办？](http://mp.weixin.qq.com/s?__biz=MjM5MDgxNjc0MA==&mid=2651019011&idx=1&sn=43a05c434b4849ebf1153a68a62b7653&chksm=bd48f7888a3f7e9ef27e32b8c2bc3297af20b330d432e57aa74d6a9ca6a9226860add59f1636&mpshare=1&scene=1&srcid=&sharer_sharetime=1574641181994&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
+  > 要让自己从想要努力，变成真正努力，方法有三个：  
+  >   
+  > ❶ 让「想要」变成「一定要」，那么就需要「被现实绊倒」，真正意识到不努力的后果。  
+  >   
+  > ❷ 进入一个「努力的环境」里，见贤思齐。  
+  >   
+  > ❸ 让自己背上压力，一旦不努力，便可能前功尽弃。  
+  >   
+  > 最后送上一句话：  
+  >   
+  > 若重要，总会想办法；不重要，总会找理由。  
+
+[/]: https://app.yinxiang.com/shard/s59/nl/11394703/b1b091d4-2469-4d51-b0f1-035122f768f5/
+
+- [为什么多数人炒股赚不到钱？](http://mp.weixin.qq.com/s?__biz=MzI1MzcyOTUxNA==&mid=2247498996&idx=3&sn=6cc71a8f16fe6501570e2a0d86359a88&chksm=e9d2b371dea53a67e3eeafa614df0b397370b5c30076ac96c6c37e32bc6e37a1bc0731f9bf14&mpshare=1&scene=1&srcid=&sharer_sharetime=1574642228319&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
+  > 巴菲特说过：不做空，不借钱，最重要的就是不要做不懂的东西。  
+  >   
+  > 当你想要做某件事时，最好是充分了解之后，再下手，否则结果往往令人难以接受。  
+
+[/]: https://app.yinxiang.com/shard/s59/nl/11394703/1840d5b9-dd35-4002-91fd-d2797c90e2cc/
+
+- [为什么穷人更喜欢买奢侈品？](http://mp.weixin.qq.com/s?__biz=MzA3NjU2MDUzMA==&mid=2673031622&idx=1&sn=a6f593a4473314e90605c96e39a0c8ff&chksm=85f8f83bb28f712ddeeb842ba0c8318212cfdad3fed10812120f54e9170ea8d92612e127af80&mpshare=1&scene=1&srcid=1125rs11fTfL1QhkVb0og0k9&sharer_sharetime=1574645020353&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
+
+[/]: https://app.yinxiang.com/shard/s59/nl/11394703/a7c24433-1852-4650-99aa-faa59f6e149b/
+
+- [做人切勿自作多情](http://mp.weixin.qq.com/s?__biz=MzI1MzcyOTUxNA==&mid=2247498947&idx=3&sn=87ed3792cf2ed658b9fb43c8c19d0c01&chksm=e9d2b346dea53a50a016e50a652b3781d6697c4ade874827f6d4512f929cfc0f02d45a3dec17&mpshare=1&scene=1&srcid=&sharer_sharetime=1574645805143&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
+  - 别把自己太当回事，也别把自己太不当回事。
+
+[/]: https://app.yinxiang.com/shard/s59/nl/11394703/81280303-dbef-4e35-af33-ba8c3342965a/
+
+- [高晓松怒怼家产200亿富二代，我只想说：怼得好](http://mp.weixin.qq.com/s?__biz=MzI1MzcyOTUxNA==&mid=2247498947&idx=2&sn=6f2c350b2b168459f7bed02c7ee164bf&chksm=e9d2b346dea53a50c5e2881d11c2035e151ed142bafeb9170cc7a5c49ca940c08e9b4fc6d709&mpshare=1&scene=1&srcid=&sharer_sharetime=1574646096848&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
+
+[/]: https://app.yinxiang.com/shard/s59/nl/11394703/265f74c7-7d5e-4c2f-8f67-311b9909466f/
+
+- [“熬夜变笨”终于被科学证实：你的身体正狠狠报复你](http://mp.weixin.qq.com/s?__biz=MzAwNTMxOTAzOQ==&mid=2650290575&idx=3&sn=109b192e0e8ebc2d7188a1697515dc4f&chksm=8312e99fb465608905b41853e8fcf6a61e3124c5f73f6c57e8bc6f9834f70b00c9e422e652f3&mpshare=1&scene=1&srcid=&sharer_sharetime=1574651587111&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
+
+[/]: http://mp.weixin.qq.com/s?__biz=MzAwNTMxOTAzOQ==&mid=2650290575&idx=3&sn=109b192e0e8ebc2d7188a1697515dc4f&chksm=8312e99fb465608905b41853e8fcf6a61e3124c5f73f6c57e8bc6f9834f70b00c9e422e652f3&mpshare=1&scene=1&srcid=&sharer_sharetime=1574651587111&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd
+
+- [真正牛逼的员工，是让领导又爱又怕](http://mp.weixin.qq.com/s?__biz=MjM5MDgxNjc0MA==&mid=2651018986&idx=1&sn=52671f24381b341db3b7e5a4c89fd8dd&chksm=bd48f6618a3f7f77ee4c8f13e62e955f0f01df5880461968261b02f4819e33ba4cae64fadfe2&mpshare=1&scene=1&srcid=&sharer_sharetime=1574656374833&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
+  - 领导实际上也是一种资源。
+
+[/]: https://app.yinxiang.com/shard/s59/nl/11394703/fdb03230-c2fb-4f54-9eaa-1ad38c573f4e/
+
+- [我有一个抠门的老公，省钱的事情可以找他](http://mp.weixin.qq.com/s?__biz=MzAwNTMxOTAzOQ==&mid=2650290575&idx=1&sn=b5635f9dce9a08799ed020a391ece3c7&chksm=8312e99fb46560898ee58835b4f9f121679ee795560255cd0412953a1ce79dea025841acab35&mpshare=1&scene=1&srcid=&sharer_sharetime=1574657275778&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
+
+[/]:https://app.yinxiang.com/shard/s59/nl/11394703/04042717-ccc2-4134-96ad-ab1e8a61b201/
+
+- [哪些细节能看出一个人的格局？](http://mp.weixin.qq.com/s?__biz=MzIzMTUyOTY3NA==&mid=2247497148&idx=1&sn=f7dcd02a7af0de414730a59b1aad8957&chksm=e8a07819dfd7f10f3dc650f84ac1328efa3c115b944fec7286c5ecbf3bb8867af3f52f9a2464&mpshare=1&scene=1&srcid=&sharer_sharetime=1574657734756&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
+
+[/]: https://app.yinxiang.com/shard/s59/nl/11394703/de28a3b7-2884-40e2-a186-2adc29bf6355/
+
+- [毕业后的一生，我们都在为自己的简历打工](http://mp.weixin.qq.com/s?__biz=MzA3NjU2MDUzMA==&mid=2673031612&idx=1&sn=20946e2e1c8ab07f04f746554413484c&chksm=85f8f841b28f715726cc7e2ee10b3faf116b14ff43654f1b73907b4ad233817d3797fbd55473&mpshare=1&scene=1&srcid=&sharer_sharetime=1574664997167&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
+  - 工作不仅仅只是为了工作，是为了扩充你的门面。
+
+[/]: https://app.yinxiang.com/shard/s59/nl/11394703/f181e87d-7677-4ab2-8d9a-0abb2dec58dd/
