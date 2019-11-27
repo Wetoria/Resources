@@ -496,3 +496,19 @@
   - 工作不仅仅只是为了工作，是为了扩充你的门面。
 
 [/]: https://app.yinxiang.com/shard/s59/nl/11394703/f181e87d-7677-4ab2-8d9a-0abb2dec58dd/
+
+- [什么是格局？我有三点思考](http://mp.weixin.qq.com/s?__biz=MzIzMTUyOTY3NA==&mid=2247497182&idx=1&sn=d360f9d5b7b3b91f8159c5aa4dab3113&chksm=e8a0787bdfd7f16d2e4bc66ac9733f85f286c55df51a6b8191ac9ee1cc5bc9334d233059ec91&mpshare=1&scene=1&srcid=&sharer_sharetime=1574746927769&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
+  - 格局，一个人对人、对事、对命的思考方式，一个是如何看待这些东西的。
+
+[/]: https://app.yinxiang.com/shard/s59/nl/11394703/e32cda1b-2e1a-42a2-b815-09b1c37cd682/
+
+- [我不敢同情那位身患绝症还被网易裁掉的员工](http://mp.weixin.qq.com/s?__biz=MzA3NjU2MDUzMA==&mid=2673031669&idx=1&sn=b8a8d4c68003509ab8286db25aff9c99&chksm=85f8f808b28f711e7a9595a9b3143b92d50b2e956672d1877d98dd9f568d6a702bed05a09cbf&mpshare=1&scene=1&srcid=&sharer_sharetime=1574747212342&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
+  - 如何缩短前端开发周期避免无谓的加班，如何保证前端交付质量，在这个基础上，如何保证整体功能不受影响。
+
+[/]: https://app.yinxiang.com/shard/s59/nl/11394703/32c57ab3-f8d1-4c7c-8f75-184d704f7f19/
+
+- [没有目标感的人，就是无根的草](http://mp.weixin.qq.com/s?__biz=MzI1MzcyOTUxNA==&mid=2247499033&idx=3&sn=bb3f7ce362a5e9f908d4424d68a9f626&chksm=e9d2b29cdea53b8a49fa0b89d28a6e7e6808c2f788b7236ef630c4ab42576417b06cfc633c80&mpshare=1&scene=1&srcid=&sharer_sharetime=1574747466450&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
+  - 没有目标没有努力的方向，没有努力的方向，做事没有动力。
+  - 目标太大也不行，目标太大，容易失去信心。
+
+[/]: https://app.yinxiang.com/shard/s59/nl/11394703/ebe25aa7-8aef-4a39-95f1-b2f5a7634eb6/
