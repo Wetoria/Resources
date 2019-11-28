@@ -512,3 +512,25 @@
   - 目标太大也不行，目标太大，容易失去信心。
 
 [/]: https://app.yinxiang.com/shard/s59/nl/11394703/ebe25aa7-8aef-4a39-95f1-b2f5a7634eb6/
+
+- [《奇葩说》薛兆丰道破996真相：我们每个人，都在为自己的简历打工](http://mp.weixin.qq.com/s?__biz=MzI1MzcyOTUxNA==&mid=2247498885&idx=1&sn=ae72dae2e7f96c0bd60f89b1534bcf94&chksm=e9d2b300dea53a1674f1fde1e6dbe13575dc001516cb07c16210194dcc692b0375175bf240a5&mpshare=1&scene=1&srcid=&sharer_sharetime=1574820581531&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
+
+[/]: https://app.yinxiang.com/shard/s59/nl/11394703/060cf15e-d99e-4fbe-b5dc-1b20e8537de0/
+
+- [“不要和22：59下班的人做朋友”](http://mp.weixin.qq.com/s?__biz=MzA3NjU2MDUzMA==&mid=2673031592&idx=2&sn=84eb87520fb22ad653013167ebe8d26a&chksm=85f8f855b28f714340a3f6ac26b8e1d18ed74dab676af0e195cd8b25e4abbb2095ea95e9c04f&mpshare=1&scene=1&srcid=&sharer_sharetime=1574827671826&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
+  - 时间颗粒度概念。
+
+[/]: https://app.yinxiang.com/shard/s59/nl/11394703/0ffe683f-bc84-4061-9acd-6cf6bb864f28/
+
+- [一名90后经营者的生意经](http://mp.weixin.qq.com/s?__biz=MzA5OTcwMTAyMg==&mid=2458353060&idx=1&sn=8f1c2cd60885ad0acede5901661992b9&chksm=878d85d5b0fa0cc33edb9447b1b7c855fd74e3b44d88080a783de09318b11ab384aacaa5eb78&mpshare=1&scene=1&srcid=&sharer_sharetime=1574828621394&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
+
+[/]: https://app.yinxiang.com/shard/s59/nl/11394703/e2218f0c-37fd-4678-bf4a-013cd5087e68/
+
+- [我从12岁就学如何赚钱，野路子生意经分享给你](http://mp.weixin.qq.com/s?__biz=MzAwNTMxOTAzOQ==&mid=2650290406&idx=1&sn=90add713d077aaa1b82d1d469f77b7b5&chksm=8312e8f6b46561e03d764f2bea825435f347f568a218f7aa188e26c9539e6c85d4ec54ac4172&mpshare=1&scene=1&srcid=&sharer_sharetime=1574864245189&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
+  - 成本意识 & 落地能力
+
+[/]: https://app.yinxiang.com/shard/s59/nl/11394703/8da637dc-36f0-4c5c-bc61-f2e80dfbbe14/
+
+- [这个时代，你不向上，就会自动向下。](http://mp.weixin.qq.com/s?__biz=MzAxNzI4MTMwMw==&mid=2651632971&idx=1&sn=7e198d23b9a3dd90811556e9439f7037&chksm=801fed33b7686425f544d3cfd9f18eb899301387343fe7e231194a39861b6cf26826672e22bf&mpshare=1&scene=1&srcid=&sharer_sharetime=1574864600333&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
+
+[/]: https://app.yinxiang.com/shard/s59/nl/11394703/7322fa9c-58f3-4ac2-a7df-74fa00a07137/

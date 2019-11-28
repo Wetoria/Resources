@@ -828,3 +828,18 @@
 - [如何成为公司独当一面的工程师 - 掘金](https://juejin.im/post/5dd4cc71f265da0bca7899cf)
 
 [/]: https://app.yinxiang.com/shard/s59/nl/11394703/9777f179-6d13-4c7e-b210-b71da62041e0/
+
+- [x] [高效学习习惯分享 - 掘金](https://juejin.im/post/5ddc0b9951882572fe6edf78)
+  - 一旦...就...
+  - 以有益的事（读书），替换打发时间的事
+  - 提高专业能力。
+
+[/]: https://app.yinxiang.com/shard/s59/nl/11394703/5bf85266-af04-42bb-a858-2724394f2a83/
+
+- [x] [我为什么建议前端将Python 作为第二语言？ - 掘金](https://juejin.im/post/5ddb3cb7f265da7ddc67733a)
+
+[/]: https://app.yinxiang.com/shard/s59/nl/11394703/faaae0bb-6759-4442-952d-45a0e06b2467/
+
+- [x] [「前端进阶」深度解析瀑布流布局 - 掘金](https://juejin.im/post/5ddb7a7c51882573520fb185)
+
+[/]: https://app.yinxiang.com/shard/s59/nl/11394703/4fef8805-de3c-4e27-9df1-f6d74d73d3e3/
