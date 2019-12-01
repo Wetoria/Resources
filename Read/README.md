@@ -534,3 +534,71 @@
 - [这个时代，你不向上，就会自动向下。](http://mp.weixin.qq.com/s?__biz=MzAxNzI4MTMwMw==&mid=2651632971&idx=1&sn=7e198d23b9a3dd90811556e9439f7037&chksm=801fed33b7686425f544d3cfd9f18eb899301387343fe7e231194a39861b6cf26826672e22bf&mpshare=1&scene=1&srcid=&sharer_sharetime=1574864600333&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
 
 [/]: https://app.yinxiang.com/shard/s59/nl/11394703/7322fa9c-58f3-4ac2-a7df-74fa00a07137/
+
+- [太真实了！时间紧任务重，腾讯这个新综艺简直说出了千万人的工作日常！](http://mp.weixin.qq.com/s?__biz=MjM5MDgxNjc0MA==&mid=2651018602&idx=1&sn=4d7844305a72463523ba5aab31235eec&chksm=bd48f5e18a3f7cf745864c83db9e589374a6d0f9a9881aab140064822b375293e3581008874c&mpshare=1&scene=1&srcid=&sharer_sharetime=1574997278872&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
+  - What，做什么。明确具体任务和要求，明确各个阶段的重点
+  - Why，为什么。了解任务背后的目标和战略，目标越清晰，越有助于工作开展。
+  - When，什么时候。确定任务时间，各个环节开始、完成的进度。
+  - Who，谁来做。确认任务负责人，或者是负责部门。
+  - Where，何地做。确定任务的实施地点，了解环境条件和限制，提前应对。
+  - How，如何做。制定任务实现方式，以及相应的规则。
+
+[/]: https://app.yinxiang.com/shard/s59/nl/11394703/cba209dd-5c80-43fb-a9bd-dcc08d4b4bd1/
+
+- [不要轻易去吃亏，否则你会一直吃亏](http://mp.weixin.qq.com/s?__biz=MzI1MzcyOTUxNA==&mid=2247498423&idx=3&sn=5badcc5189e1d2b06c6750ed19ba940e&chksm=e9d2b532dea53c24c0e829bd5af3dcb60829760a3a7ed7b542cdd4e09eeff6f1fabea8553f32&mpshare=1&scene=1&srcid=&sharer_sharetime=1574997520126&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
+  > 当付出的代价比吃苦更大时，人们情愿选择吃苦。  
+  >  
+  > 德国心理治疗师海灵格，说过一句话:  
+  > “受苦比解决问题来得容易，承受不幸比享受幸福来得简单。  
+  >  
+  > 那个主管为什么成为了“人民公仆”？因为他忘了自己真正的职责所在。  
+  >   
+  > 宁愿让自己受苦，也不愿面对职场问题。  
+  >   
+  > 这就好像大多数年轻人，宁愿享受现在的安逸，也不愿多吃点苦。  
+  >   
+  > 其实呢？这苦，你迟早都会吃。但那时的苦，比现在的苦更苦......
+
+[/]: https://app.yinxiang.com/shard/s59/nl/11394703/a44f3a63-2c5a-420e-8b31-8c9d4e083a91/
+
+- [闭嘴的王思聪，已是中年人](http://mp.weixin.qq.com/s?__biz=MzI1MzcyOTUxNA==&mid=2247498423&idx=1&sn=b639121a17e4b90c0f1256cc8f2c2ce7&chksm=e9d2b532dea53c24538b97b4cdac74d9c9564e2434ded101c18ccc94359364786f392c6b873b&mpshare=1&scene=1&srcid=&sharer_sharetime=1575003078385&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
+  - 谁人年少不轻狂？
+
+[/]: https://app.yinxiang.com/shard/s59/nl/11394703/28c6b1e4-df5e-40be-a091-41a7cb94a307/
+
+- [不要透支你和任何人的关系](http://mp.weixin.qq.com/s?__biz=MzA3NjU2MDUzMA==&mid=2673031088&idx=2&sn=e65eaf5ae5ea734a2affa1b021edc8f6&chksm=85f8f64db28f7f5be125bd24cd1b28bd18c2dac9768a38d8131a7193755e325a59716b80fb45&mpshare=1&scene=1&srcid=&sharer_sharetime=1575004631828&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
+
+[/]: https://app.yinxiang.com/shard/s59/nl/11394703/05dbf833-234f-401e-ba03-eef1d12a377c/
+
+- [不会分钱的人，当不好老板](http://mp.weixin.qq.com/s?__biz=MzIzMTUyOTY3NA==&mid=2247496939&idx=1&sn=13d853cedd6e5c54752cbb7769e1bf97&chksm=e8a0794edfd7f058cb2b0667246f544225b444267ea41f0b6bc1fb4fbf9632c6851001346b49&mpshare=1&scene=1&srcid=&sharer_sharetime=1575104296785&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
+
+[/]: https://app.yinxiang.com/shard/s59/nl/11394703/30185ccb-1a63-4436-88a9-59bd5b4b0ca3/
+
+- [人的意志力对绝症，能起多大作用？](http://mp.weixin.qq.com/s?__biz=MzI1MzcyOTUxNA==&mid=2247498342&idx=3&sn=cff3ce36bfe7c4e3efdc8b1089904ef1&chksm=e9d2b5e3dea53cf54bd28eeaf58275f2bf183189ee3480b7e5e06a7d7b4f06fceaa1d8013cbf&mpshare=1&scene=1&srcid=&sharer_sharetime=1575104590700&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
+
+[/]: https://app.yinxiang.com/shard/s59/nl/11394703/5678f5c2-87c4-48b2-9751-f37159830b8b/
+
+
+- [商务场合中，切忌节外生枝](http://mp.weixin.qq.com/s?__biz=MzI1MzcyOTUxNA==&mid=2247498293&idx=3&sn=f65820b7e6c7ec6168a829a26a5f5aa0&chksm=e9d2b5b0dea53ca65be5f1ccd11b2061d36558639ba83805be10701367e4a21fce9dcce51fab&mpshare=1&scene=1&srcid=&sharer_sharetime=1575118459175&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
+
+[/]: https://app.yinxiang.com/shard/s59/nl/11394703/10888fc0-bdce-499e-8fab-4a2dc5d77370/
+
+- [毁掉你的不是黑天鹅，而是灰犀牛](http://mp.weixin.qq.com/s?__biz=MzI1MzcyOTUxNA==&mid=2247498293&idx=1&sn=bee3eae57744e21458ea767b13638fa7&chksm=e9d2b5b0dea53ca64a3c5e9274fa385208254e54cf2312b379900e27b9fbdc79baf1a8eb820a&mpshare=1&scene=1&srcid=&sharer_sharetime=1575118697055&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
+
+[/]: https://app.yinxiang.com/shard/s59/nl/11394703/f6c845d8-26a7-426a-bfd2-f896b9cce443/
+
+- [不要随便看老板的朋友圈](http://mp.weixin.qq.com/s?__biz=MjM5MDgxNjc0MA==&mid=2651017566&idx=1&sn=821c2c88309d3a62da7539352072907d&chksm=bd48f1d58a3f78c3d2ace395fa645fd637c5c00394e2eef190655e1e96607708347c656f67b7&mpshare=1&scene=1&srcid=&sharer_sharetime=1575176792412&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
+
+[/]: https://app.yinxiang.com/shard/s59/nl/11394703/725bd838-e1af-4d8f-bf69-7eda98bb5729/
+
+- [“飞刀走穴”事件：比起潜规则，我更怕不讲规则的人](http://mp.weixin.qq.com/s?__biz=MzI1MzcyOTUxNA==&mid=2247497398&idx=1&sn=52993002ba97cd9e832b6d5ca841d458&chksm=e9d2b933dea5302596d27cc0f06f31d690e9410ad053fb8b7eb0278e7abf2cc4a020f111180c&mpshare=1&scene=1&srcid=1014P6qrTmuXBPyXF766Gm4P&sharer_sharetime=1575177195591&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
+
+[/]: https://app.yinxiang.com/shard/s59/nl/11394703/b8552b00-9b9e-46e4-914a-a9c756fedd33/
+
+- [做人，别太把自己当回事](http://mp.weixin.qq.com/s?__biz=MzAxMzUzOTA3NQ==&mid=2652955053&idx=1&sn=a5f4344e115af4da672900ec894e4ccb&chksm=807543c1b702cad792768ab68560eaf42dea8cf610c6fb55d4ae1a6540ee6200b0ba48b2e810&mpshare=1&scene=1&srcid=10134uP4r1ryJJarkCL3H4Be&sharer_sharetime=1575177524040&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
+
+[/]: https://app.yinxiang.com/shard/s59/nl/11394703/dd111d7f-a1bd-4e76-b993-5e41c516386d/
+
+- [“不坐飞机的女孩没见识”：强求三观一致的伴侣，有多毒？](http://mp.weixin.qq.com/s?__biz=MzA3NjU2MDUzMA==&mid=2673030749&idx=2&sn=4b3c1ebf6c09d7d9cb519fdf29b4f22b&chksm=85f8f7a0b28f7eb6a0a58be71c2f1540bf58b640bdcbbc25133f55f5daec37ad23d4a1019de9&mpshare=1&scene=1&srcid=&sharer_sharetime=1575196693600&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
+
+[/]: https://app.yinxiang.com/shard/s59/nl/11394703/31d3be4c-e0e4-4d1f-b431-ec328fe64af1/
