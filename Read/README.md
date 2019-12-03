@@ -602,3 +602,46 @@
 - [“不坐飞机的女孩没见识”：强求三观一致的伴侣，有多毒？](http://mp.weixin.qq.com/s?__biz=MzA3NjU2MDUzMA==&mid=2673030749&idx=2&sn=4b3c1ebf6c09d7d9cb519fdf29b4f22b&chksm=85f8f7a0b28f7eb6a0a58be71c2f1540bf58b640bdcbbc25133f55f5daec37ad23d4a1019de9&mpshare=1&scene=1&srcid=&sharer_sharetime=1575196693600&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
 
 [/]: https://app.yinxiang.com/shard/s59/nl/11394703/31d3be4c-e0e4-4d1f-b431-ec328fe64af1/
+
+- [真正能扛事的人，遇到大事都这样处理](http://mp.weixin.qq.com/s?__biz=MjM5MDgxNjc0MA==&mid=2651017550&idx=2&sn=7b90fec26f984d4afd112672c3636615&chksm=bd48f1c58a3f78d3c99361fee7ef3e1b9c5208989041fa8244aca2fd57851f0a8a04cfb105c9&mpshare=1&scene=1&srcid=1202tjc6jO7CwJqn3RNEtQ6o&sharer_sharetime=1575258931007&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
+  > 是遇事不逃避，不轻易放弃，迎难而上，咬紧牙关想办法渡过难关，即使失败了也有从头再来的勇气。  
+  >  
+  > 遇到逆境先稳住，你要做的不是接下来立刻赢，而是现在不能输。
+
+[/]: https://app.yinxiang.com/shard/s59/nl/11394703/a7fdfc38-bd2f-4134-83fa-46fb766d1965/
+
+- [家庭最大的失败，就是只有孩子在成长](http://mp.weixin.qq.com/s?__biz=MzAxNzI4MTMwMw==&mid=2651632915&idx=1&sn=c2215c23e4a786b9a243c7e1fad38af7&chksm=801fed6bb768647d64dace5ad918defb86be695b74478d03d01f0f64f9d259affc531d130221&mpshare=1&scene=1&srcid=&sharer_sharetime=1575284489410&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
+  > 三岁，开始养成卓越习惯。  
+  > 六岁，准备融入集体生活。  
+  > 十三岁，孩子叛逆早准备。  
+  > 十八岁，放孩子去单飞。  
+
+[/]: https://app.yinxiang.com/shard/s59/nl/11394703/aefe48d8-712f-4d10-82a6-5f0121f6e574/
+
+- [“蓝海”往往也是“死海”](http://mp.weixin.qq.com/s?__biz=MzI1MzcyOTUxNA==&mid=2247497212&idx=3&sn=14e1a7662f5d01db933a127ea92b3560&chksm=e9d2ba79dea5336fccfce4a9440a7e1fdc0a5d9603f073b87493babdc254986aeade1d821384&mpshare=1&scene=1&srcid=&sharer_sharetime=1575284641302&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
+
+[/]: https://app.yinxiang.com/shard/s59/nl/11394703/7ec7ab0b-956b-40a9-86bc-403d30955616/
+
+- [关于“逆向思维”的4种方法论](http://mp.weixin.qq.com/s?__biz=MzI1MzcyOTUxNA==&mid=2247497190&idx=3&sn=4f04419cb9bb7cb52b3ec978fb48507f&chksm=e9d2ba63dea533756bf130a2bc7bfaa9889fe2507fb332afe5b067c0e57b6399c18541e2f42b&mpshare=1&scene=1&srcid=&sharer_sharetime=1575368341473&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
+  > 1.结果倒推法——油罐车被罚  
+  > 2.方位逆向法  
+  > 3.缺点逆转法  
+  > 4.塑造因果法  
+
+[/]: https://app.yinxiang.com/shard/s59/nl/11394703/82a865c7-efc8-415c-ab64-3f726547ddfc/
+
+- [一个人是否靠谱，就在于确定性](http://mp.weixin.qq.com/s?__biz=MzI1MzcyOTUxNA==&mid=2247497190&idx=1&sn=c15185448974cae8894f8c3d3cb30a41&chksm=e9d2ba63dea53375d7b0bf3952b9dc522bf70675dfdd5017590abde2d5e2d961fd14c4122be5&mpshare=1&scene=1&srcid=&sharer_sharetime=1575368705673&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
+
+[/]: https://app.yinxiang.com/shard/s59/nl/11394703/1e98b08f-c3ab-4283-a129-863798ee6f70/
+
+- [分不清主次，你永远在打杂](http://mp.weixin.qq.com/s?__biz=MzI0NTY2MjQ5OQ==&mid=2247492946&idx=3&sn=e6fc8311e35c8df43e9824dd58c32a05&chksm=e949b31ede3e3a08e462664b9dbafb63259cc62361a820d1474b4b26c6513ed554c7f16c7be8&mpshare=1&scene=1&srcid=&sharer_sharetime=1575381155504&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
+  > “不要再说了！”领导大手一挥，制止了他的发言。  
+  >   
+  > 领导说道：“你都工作这么久了，难道不知道汇报工作，先要讲指标和绩效吗？你连自己工作的主次都搞不清楚，我会因为你开了多少会，辅导了多少员工就给你升职加薪吗？”  
+
+[/]: https://app.yinxiang.com/shard/s59/nl/11394703/b1076069-9bee-495e-b40d-2138cadd85ba/
+
+- [相信的力量背后，是一个人的见识和格局](http://mp.weixin.qq.com/s?__biz=MzI1MzcyOTUxNA==&mid=2247497125&idx=1&sn=0fe59e9257547c153c35cb97313a3a44&chksm=e9d2ba20dea53336637f18b57a11e9213a94482ddc9f82297b99d070e77e8aada73e2e64a20d&mpshare=1&scene=1&srcid=&sharer_sharetime=1575381373471&sharer_shareid=3013204a22065ccb37e3fc934a4d49da#rd)
+  - 吸引力法则。
+
+[/]: https://app.yinxiang.com/shard/s59/nl/11394703/c7055a94-5505-4f48-8d55-13b891b696d8/
