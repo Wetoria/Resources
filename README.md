@@ -16,6 +16,9 @@
 
 [//]: https://app.yinxiang.com/shard/s59/nl/11394703/8d4ce5a9-aef4-4ef9-9b5e-e3fca9703e44/
 
+
+[测试锚点](#Resources)
+
 - ## 知识点
 - [x] [面试时面试官想要听到什么答案（关于一些vue的问题） - 掘金](https://juejin.im/post/5dac07675188253d706643f4)
 
